@@ -1,0 +1,1011 @@
+2024-08-20T17:37:30.591253 - #331092 - Detected knife with confidence 0.77
+2024-08-20T17:37:31.371298 - #109339 - Detected knife with confidence 0.81
+2024-08-20T17:37:32.040373 - #363834 - Detected knife with confidence 0.81
+2024-08-20T17:38:29.874626 - #265835 - Detected knife with confidence 0.76
+2024-08-20T17:38:33.682806 - #624825 - Detected Violence with confidence 0.86
+2024-08-20T17:38:34.505307 - #373718 - Detected Violence with confidence 0.87
+2024-08-20T17:38:35.237954 - #731343 - Detected Violence with confidence 0.88
+2024-08-20T17:38:36.039539 - #883700 - Detected Violence with confidence 0.85
+2024-08-20T17:38:38.313558 - #673023 - Detected No Violence with confidence 0.83
+2024-08-20T17:38:39.701388 - #461841 - Detected Violence with confidence 0.81
+2024-08-20T17:39:05.347966 - #457980 - Detected Violence with confidence 0.81
+2024-08-20T17:39:55.133530 - #120498 - Detected Violence with confidence 0.82
+2024-08-20T17:40:23.479691 - #698275 - Detected gun with confidence 0.76
+2024-08-20T17:42:30.557498 - #290385 - Detected Violence with confidence 0.92
+2024-08-20T17:42:31.738766 - #182864 - Detected Violence with confidence 0.83
+2024-08-20T17:42:44.948623 - #727848 - Detected knife with confidence 0.84
+2024-08-20T17:43:01.796293 - #238847 - Detected Violence with confidence 0.80
+2024-08-20T17:43:03.246858 - #376827 - Detected knife with confidence 0.76
+2024-08-20T17:43:03.977653 - #175025 - Detected Violence with confidence 0.81
+2024-08-20T17:43:04.678489 - #460325 - Detected Violence with confidence 0.84
+2024-08-20T17:43:13.401463 - #859836 - Detected Violence with confidence 0.80
+2024-08-20T17:43:14.113057 - #304039 - Detected Violence with confidence 0.86
+2024-08-20T17:43:14.762632 - #289540 - Detected Violence with confidence 0.85
+2024-08-20T17:43:15.564339 - #734977 - Detected Violence with confidence 0.82
+2024-08-20T17:43:17.136421 - #843892 - Detected Violence with confidence 0.86
+2024-08-20T17:43:17.922171 - #510540 - Detected Violence with confidence 0.85
+2024-08-20T17:43:24.882556 - #534468 - Detected Violence with confidence 0.84
+2024-08-20T17:43:31.116821 - #207544 - Detected Violence with confidence 0.80
+2024-08-20T17:43:32.008058 - #838381 - Detected Violence with confidence 0.86
+2024-08-20T17:43:33.667421 - #909383 - Detected Violence with confidence 0.92
+2024-08-20T17:43:34.751616 - #274710 - Detected Violence with confidence 0.87
+2024-08-20T17:43:35.347882 - #109235 - Detected Violence with confidence 0.83
+2024-08-20T17:43:36.095219 - #847560 - Detected Violence with confidence 0.83
+2024-08-20T17:48:09.876675 - #200010 - Detected Violence with confidence 0.81
+2024-08-20T17:57:38.166152 - #890208 - Detected Violence with confidence 0.89
+2024-08-20T17:57:39.120234 - #898432 - Detected Violence with confidence 0.82
+2024-08-20T17:57:39.588558 - #837154 - Detected Violence with confidence 0.84
+2024-08-20T17:57:43.913617 - #960458 - Detected Violence with confidence 0.90
+2024-08-20T17:57:44.480797 - #517889 - Detected Violence with confidence 0.82
+2024-08-20T17:57:45.605045 - #298629 - Detected Violence with confidence 0.93
+2024-08-20T17:57:49.181546 - #481223 - Detected Violence with confidence 0.87
+2024-08-20T17:57:50.441154 - #585727 - Detected Violence with confidence 0.85
+2024-08-20T17:57:51.053189 - #681517 - Detected Violence with confidence 0.90
+2024-08-20T17:57:52.053637 - #383665 - Detected Violence with confidence 0.87
+2024-08-20T17:57:52.765848 - #165666 - Detected Violence with confidence 0.87
+2024-08-20T17:57:53.919437 - #268178 - Detected Violence with confidence 0.87
+2024-08-20T17:57:59.362924 - #524088 - Detected Violence with confidence 0.88
+2024-08-20T17:58:04.947497 - #839892 - Detected Violence with confidence 0.89
+2024-08-20T17:58:05.568265 - #144825 - Detected Violence with confidence 0.89
+2024-08-20T17:58:06.106751 - #564518 - Detected Violence with confidence 0.83
+2024-08-20T17:58:06.695636 - #414163 - Detected Violence with confidence 0.85
+2024-08-20T17:58:12.113285 - #319524 - Detected Violence with confidence 0.80
+2024-08-20T17:58:13.047715 - #567710 - Detected Violence with confidence 0.86
+2024-08-20T17:58:17.256516 - #961381 - Detected Violence with confidence 0.81
+2024-08-20T17:58:18.850805 - #310708 - Detected Violence with confidence 0.89
+2024-08-20T17:58:20.971129 - #193753 - Detected Violence with confidence 0.82
+2024-08-20T17:58:23.251173 - #441375 - Detected Violence with confidence 0.88
+2024-08-20T17:58:48.446865 - #112493 - Detected Violence with confidence 0.86
+2024-08-20T17:58:51.993963 - #528321 - Detected Violence with confidence 0.90
+2024-08-20T17:59:02.082349 - #282777 - Detected Violence with confidence 0.84
+2024-08-20T17:59:13.306229 - #597943 - Detected Violence with confidence 0.81
+2024-08-20T17:59:15.101250 - #574771 - Detected Violence with confidence 0.84
+2024-08-20T17:59:36.906544 - #400763 - Detected Violence with confidence 0.80
+2024-08-20T17:59:37.821104 - #232340 - Detected Violence with confidence 0.85
+2024-08-20T17:59:39.028897 - #540471 - Detected Violence with confidence 0.81
+2024-08-20T17:59:39.535152 - #303927 - Detected Violence with confidence 0.88
+2024-08-20T17:59:41.381333 - #699146 - Detected Violence with confidence 0.80
+2024-08-20T17:59:42.342367 - #897403 - Detected Violence with confidence 0.80
+2024-08-20T18:00:00.200783 - #684699 - Detected Violence with confidence 0.87
+2024-08-20T18:00:03.911075 - #383514 - Detected Violence with confidence 0.83
+2024-08-20T18:00:07.407463 - #724724 - Detected Violence with confidence 0.85
+2024-08-20T18:00:07.891429 - #300407 - Detected Violence with confidence 0.85
+2024-08-20T18:00:10.876554 - #559083 - Detected Violence with confidence 0.84
+2024-08-20T18:00:20.230645 - #498578 - Detected Violence with confidence 0.91
+2024-08-20T18:00:20.743499 - #256104 - Detected Violence with confidence 0.83
+2024-08-20T18:00:21.418682 - #502853 - Detected Violence with confidence 0.89
+2024-08-20T18:00:33.323256 - #179916 - Detected Violence with confidence 0.82
+2024-08-20T18:01:46.386343 - #222586 - Detected Violence with confidence 0.84
+2024-08-20T18:01:47.599537 - #862060 - Detected Violence with confidence 0.85
+2024-08-20T18:02:34.541177 - #810169 - Detected Violence with confidence 0.81
+2024-08-20T18:02:39.302503 - #577455 - Detected Violence with confidence 0.81
+2024-08-20T18:02:39.927901 - #633616 - Detected Violence with confidence 0.88
+2024-08-20T18:02:40.965021 - #234660 - Detected Violence with confidence 0.82
+2024-08-20T18:02:59.377800 - #671359 - Detected smoke with confidence 0.77
+2024-08-20T18:03:01.536573 - #747142 - Detected smoke with confidence 0.76
+2024-08-20T18:03:01.979585 - #552279 - Detected smoke with confidence 0.86
+2024-08-20T18:03:02.478861 - #435337 - Detected smoke with confidence 0.84
+2024-08-20T18:03:03.024282 - #182901 - Detected smoke with confidence 0.84
+2024-08-20T18:03:03.568822 - #668033 - Detected smoke with confidence 0.85
+2024-08-20T18:03:04.131011 - #935971 - Detected smoke with confidence 0.83
+2024-08-20T18:03:04.993157 - #437112 - Detected smoke with confidence 0.82
+2024-08-20T18:03:05.482493 - #926683 - Detected smoke with confidence 0.84
+2024-08-20T18:03:06.039171 - #599154 - Detected smoke with confidence 0.84
+2024-08-20T18:03:06.575799 - #560506 - Detected smoke with confidence 0.86
+2024-08-20T18:03:07.118382 - #205598 - Detected smoke with confidence 0.80
+2024-08-20T18:03:07.623707 - #883163 - Detected smoke with confidence 0.78
+2024-08-20T18:03:09.072587 - #111928 - Detected smoke with confidence 0.78
+2024-08-20T18:03:10.194966 - #824139 - Detected smoke with confidence 0.76
+2024-08-20T18:03:10.733141 - #954868 - Detected smoke with confidence 0.79
+2024-08-20T18:03:14.467700 - #741376 - Detected smoke with confidence 0.79
+2024-08-20T18:03:40.071095 - #647810 - Detected Violence with confidence 0.84
+2024-08-20T18:03:57.904979 - #180133 - Detected smoke with confidence 0.86
+2024-08-20T18:03:58.496060 - #100829 - Detected smoke with confidence 0.84
+2024-08-20T18:03:58.953569 - #889228 - Detected smoke with confidence 0.86
+2024-08-20T18:03:59.361430 - #971700 - Detected smoke with confidence 0.87
+2024-08-20T18:03:59.832287 - #305448 - Detected smoke with confidence 0.86
+2024-08-20T18:04:00.398925 - #869220 - Detected smoke with confidence 0.88
+2024-08-20T18:04:00.939212 - #913325 - Detected smoke with confidence 0.84
+2024-08-20T18:04:01.537701 - #706089 - Detected smoke with confidence 0.86
+2024-08-20T18:04:02.080016 - #644229 - Detected smoke with confidence 0.86
+2024-08-20T18:04:02.512944 - #670132 - Detected smoke with confidence 0.87
+2024-08-20T18:04:03.018849 - #247095 - Detected smoke with confidence 0.83
+2024-08-20T18:04:03.679872 - #680094 - Detected smoke with confidence 0.84
+2024-08-20T18:04:04.824805 - #401224 - Detected smoke with confidence 0.85
+2024-08-20T18:04:12.363804 - #787241 - Detected Violence with confidence 0.82
+2024-08-20T18:04:14.824956 - #697245 - Detected smoke with confidence 0.85
+2024-08-20T18:04:15.384357 - #724615 - Detected smoke with confidence 0.83
+2024-08-20T18:04:15.793330 - #407736 - Detected smoke with confidence 0.78
+2024-08-20T18:04:16.618115 - #536225 - Detected smoke with confidence 0.77
+2024-08-20T18:04:20.618210 - #183037 - Detected smoke with confidence 0.77
+2024-08-20T18:04:26.688067 - #666542 - Detected smoke with confidence 0.79
+2024-08-20T18:04:27.233804 - #374358 - Detected smoke with confidence 0.77
+2024-08-20T18:04:33.161441 - #459595 - Detected smoke with confidence 0.76
+2024-08-20T18:04:37.587486 - #467904 - Detected smoke with confidence 0.78
+2024-08-20T18:04:40.267508 - #535202 - Detected smoke with confidence 0.78
+2024-08-20T18:04:41.694147 - #803230 - Detected smoke with confidence 0.81
+2024-08-20T18:04:42.262404 - #213203 - Detected smoke with confidence 0.77
+2024-08-20T18:04:43.010502 - #569753 - Detected smoke with confidence 0.79
+2024-08-20T18:04:49.874417 - #677388 - Detected smoke with confidence 0.79
+2024-08-20T18:04:51.609746 - #522248 - Detected smoke with confidence 0.81
+2024-08-20T18:04:52.127311 - #689235 - Detected smoke with confidence 0.77
+2024-08-20T18:05:05.049156 - #766036 - Detected smoke with confidence 0.81
+2024-08-20T18:05:30.338903 - #589821 - Detected smoke with confidence 0.76
+2024-08-20T18:05:31.671215 - #498958 - Detected smoke with confidence 0.77
+2024-08-20T18:05:35.530430 - #601313 - Detected smoke with confidence 0.79
+2024-08-20T18:05:37.933449 - #933365 - Detected smoke with confidence 0.82
+2024-08-20T18:05:38.521302 - #290559 - Detected smoke with confidence 0.77
+2024-08-20T18:05:39.417903 - #443400 - Detected smoke with confidence 0.75
+2024-08-20T18:05:43.648078 - #998816 - Detected smoke with confidence 0.79
+2024-08-20T18:05:44.193168 - #123684 - Detected smoke with confidence 0.82
+2024-08-20T18:05:53.854756 - #435137 - Detected smoke with confidence 0.76
+2024-08-20T18:06:11.854425 - #307361 - Detected smoke with confidence 0.81
+2024-08-20T18:06:16.580691 - #705514 - Detected smoke with confidence 0.78
+2024-08-20T18:06:19.011905 - #890711 - Detected Violence with confidence 0.80
+2024-08-20T18:06:19.375204 - #322862 - Detected Violence with confidence 0.86
+2024-08-20T18:06:20.902511 - #463048 - Detected Violence with confidence 0.83
+2024-08-20T18:06:21.394046 - #444241 - Detected Violence with confidence 0.83
+2024-08-20T18:06:21.765524 - #413237 - Detected Violence with confidence 0.81
+2024-08-20T18:06:24.410523 - #162834 - Detected smoke with confidence 0.78
+2024-08-20T18:06:25.841999 - #497940 - Detected smoke with confidence 0.80
+2024-08-20T18:06:32.929141 - #174874 - Detected smoke with confidence 0.77
+2024-08-20T18:06:35.945693 - #292123 - Detected smoke with confidence 0.77
+2024-08-20T18:06:40.306857 - #178743 - Detected smoke with confidence 0.76
+2024-08-20T18:06:40.708481 - #110928 - Detected smoke with confidence 0.79
+2024-08-20T18:06:42.731913 - #117543 - Detected smoke with confidence 0.87
+2024-08-20T18:06:43.563779 - #227885 - Detected smoke with confidence 0.81
+2024-08-20T18:06:43.937032 - #285215 - Detected smoke with confidence 0.82
+2024-08-20T18:06:44.289634 - #625246 - Detected smoke with confidence 0.86
+2024-08-20T18:06:45.003878 - #928158 - Detected smoke with confidence 0.76
+2024-08-20T18:06:56.038088 - #500941 - Detected smoke with confidence 0.76
+2024-08-20T18:06:56.408524 - #492695 - Detected smoke with confidence 0.75
+2024-08-20T18:06:56.800669 - #428807 - Detected smoke with confidence 0.77
+2024-08-20T18:06:57.346780 - #169442 - Detected smoke with confidence 0.80
+2024-08-20T18:06:58.502213 - #468924 - Detected smoke with confidence 0.78
+2024-08-20T18:07:01.907795 - #204956 - Detected smoke with confidence 0.83
+2024-08-20T18:07:04.081922 - #583602 - Detected smoke with confidence 0.84
+2024-08-20T18:07:04.670297 - #152424 - Detected smoke with confidence 0.81
+2024-08-20T18:07:05.424794 - #235368 - Detected smoke with confidence 0.76
+2024-08-20T18:07:08.751705 - #728307 - Detected smoke with confidence 0.78
+2024-08-20T18:07:09.291967 - #912756 - Detected smoke with confidence 0.79
+2024-08-20T18:07:10.542365 - #456973 - Detected smoke with confidence 0.79
+2024-08-20T18:07:11.809828 - #361285 - Detected smoke with confidence 0.82
+2024-08-20T18:07:13.292013 - #643391 - Detected smoke with confidence 0.78
+2024-08-20T18:07:21.907097 - #799489 - Detected smoke with confidence 0.76
+2024-08-20T18:07:24.351521 - #560580 - Detected smoke with confidence 0.80
+2024-08-20T18:07:33.100995 - #480720 - Detected smoke with confidence 0.84
+2024-08-20T18:07:33.467875 - #736564 - Detected smoke with confidence 0.79
+2024-08-20T18:07:33.929342 - #940424 - Detected smoke with confidence 0.79
+2024-08-20T18:07:34.433340 - #817104 - Detected smoke with confidence 0.83
+2024-08-20T18:07:34.950034 - #339734 - Detected smoke with confidence 0.77
+2024-08-20T18:07:36.310205 - #429997 - Detected smoke with confidence 0.78
+2024-08-20T18:07:38.813401 - #451542 - Detected smoke with confidence 0.76
+2024-08-20T18:07:39.188588 - #608834 - Detected smoke with confidence 0.87
+2024-08-20T18:07:39.970078 - #925758 - Detected smoke with confidence 0.78
+2024-08-20T18:07:40.944696 - #131790 - Detected smoke with confidence 0.77
+2024-08-20T18:07:41.888092 - #182112 - Detected smoke with confidence 0.79
+2024-08-20T18:07:42.294301 - #965258 - Detected smoke with confidence 0.75
+2024-08-20T18:07:42.608442 - #542486 - Detected smoke with confidence 0.78
+2024-08-20T18:07:43.150648 - #459759 - Detected smoke with confidence 0.77
+2024-08-20T18:07:43.631849 - #300233 - Detected smoke with confidence 0.77
+2024-08-20T18:07:44.536341 - #595676 - Detected smoke with confidence 0.78
+2024-08-20T18:07:44.961229 - #874243 - Detected smoke with confidence 0.80
+2024-08-20T18:07:45.715875 - #379416 - Detected smoke with confidence 0.77
+2024-08-20T18:07:46.175178 - #613789 - Detected smoke with confidence 0.76
+2024-08-20T18:07:47.306796 - #585506 - Detected smoke with confidence 0.77
+2024-08-20T18:07:48.556312 - #398986 - Detected smoke with confidence 0.87
+2024-08-20T18:07:48.970715 - #364679 - Detected smoke with confidence 0.81
+2024-08-20T18:07:49.455370 - #259851 - Detected smoke with confidence 0.81
+2024-08-20T18:07:50.488268 - #503807 - Detected smoke with confidence 0.84
+2024-08-20T18:07:50.958048 - #628560 - Detected smoke with confidence 0.78
+2024-08-20T18:07:51.346659 - #610604 - Detected smoke with confidence 0.84
+2024-08-20T18:08:01.398195 - #703058 - Detected smoke with confidence 0.82
+2024-08-20T18:08:01.896943 - #563651 - Detected smoke with confidence 0.80
+2024-08-20T18:08:02.407807 - #346455 - Detected smoke with confidence 0.83
+2024-08-20T18:08:03.199368 - #867658 - Detected smoke with confidence 0.91
+2024-08-20T18:08:03.786735 - #451881 - Detected smoke with confidence 0.86
+2024-08-20T18:08:04.296592 - #766330 - Detected smoke with confidence 0.89
+2024-08-20T18:08:04.812660 - #264231 - Detected smoke with confidence 0.81
+2024-08-20T18:08:05.326944 - #315915 - Detected smoke with confidence 0.88
+2024-08-20T18:08:05.940386 - #130071 - Detected smoke with confidence 0.88
+2024-08-20T18:08:06.484863 - #359978 - Detected smoke with confidence 0.89
+2024-08-20T18:08:07.013483 - #396769 - Detected smoke with confidence 0.89
+2024-08-20T18:08:07.723311 - #757164 - Detected smoke with confidence 0.82
+2024-08-20T18:08:08.401703 - #434347 - Detected smoke with confidence 0.91
+2024-08-20T18:08:09.125170 - #661573 - Detected smoke with confidence 0.91
+2024-08-20T18:08:09.826597 - #567875 - Detected smoke with confidence 0.90
+2024-08-20T18:08:10.446859 - #277750 - Detected smoke with confidence 0.88
+2024-08-20T18:08:11.021954 - #434956 - Detected smoke with confidence 0.83
+2024-08-20T18:08:11.510039 - #411681 - Detected smoke with confidence 0.91
+2024-08-20T18:08:11.893503 - #440012 - Detected smoke with confidence 0.86
+2024-08-20T18:08:12.562094 - #837273 - Detected smoke with confidence 0.88
+2024-08-20T18:08:13.122548 - #278762 - Detected smoke with confidence 0.90
+2024-08-20T18:08:13.653596 - #222086 - Detected smoke with confidence 0.88
+2024-08-20T18:08:14.140897 - #933504 - Detected smoke with confidence 0.85
+2024-08-20T18:08:14.540284 - #422856 - Detected smoke with confidence 0.82
+2024-08-20T18:08:14.990675 - #878466 - Detected smoke with confidence 0.90
+2024-08-20T18:08:15.467329 - #671865 - Detected smoke with confidence 0.90
+2024-08-20T18:08:15.932425 - #426760 - Detected smoke with confidence 0.91
+2024-08-20T18:08:16.412011 - #394356 - Detected smoke with confidence 0.88
+2024-08-20T18:08:16.922977 - #309741 - Detected smoke with confidence 0.84
+2024-08-20T18:08:17.422353 - #512668 - Detected smoke with confidence 0.89
+2024-08-20T18:08:17.881085 - #588121 - Detected smoke with confidence 0.86
+2024-08-20T18:08:18.360525 - #871977 - Detected smoke with confidence 0.85
+2024-08-20T18:08:40.115917 - #314946 - Detected Violence with confidence 0.91
+2024-08-20T18:09:12.467595 - #420918 - Detected smoke with confidence 0.82
+2024-08-20T18:09:12.990903 - #955449 - Detected smoke with confidence 0.78
+2024-08-20T18:09:15.039752 - #687523 - Detected smoke with confidence 0.80
+2024-08-20T18:09:15.669269 - #553656 - Detected smoke with confidence 0.77
+2024-08-20T18:09:38.274528 - #750859 - Detected smoke with confidence 0.77
+2024-08-20T18:09:43.124984 - #446400 - Detected smoke with confidence 0.75
+2024-08-20T18:09:44.811421 - #595320 - Detected smoke with confidence 0.87
+2024-08-20T18:09:45.325797 - #121278 - Detected smoke with confidence 0.78
+2024-08-20T19:06:15.782945 - #491076 - Detected No Violence with confidence 0.84
+2024-08-20T19:06:22.080000 - #641094 - Detected smoke with confidence 0.77
+2024-08-20T19:06:23.058788 - #885488 - Detected No Violence with confidence 0.82
+2024-08-20T19:06:23.176042 - #117572 - Detected smoke with confidence 0.88
+2024-08-20T19:06:30.970437 - #279190 - Detected smoke with confidence 0.82
+2024-08-20T20:07:59.816159 - #545477 - Detected smoke with confidence 0.81
+2024-08-20T20:08:00.277923 - #601084 - Detected smoke with confidence 0.78
+2024-08-20T20:08:01.946459 - #983736 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:02.384290 - #272989 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:02.769264 - #871060 - Detected No Violence with confidence 0.85
+2024-08-20T20:08:03.148244 - #262761 - Detected No Violence with confidence 0.82
+2024-08-20T20:08:03.661870 - #596648 - Detected No Violence with confidence 0.86
+2024-08-20T20:08:04.173503 - #180357 - Detected No Violence with confidence 0.84
+2024-08-20T20:08:05.136928 - #842730 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:05.901877 - #751841 - Detected No Violence with confidence 0.84
+2024-08-20T20:08:06.909185 - #966031 - Detected No Violence with confidence 0.84
+2024-08-20T20:08:07.415828 - #770524 - Detected No Violence with confidence 0.85
+2024-08-20T20:08:08.086035 - #153284 - Detected No Violence with confidence 0.87
+2024-08-20T20:08:08.635567 - #895050 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:09.712684 - #846778 - Detected No Violence with confidence 0.85
+2024-08-20T20:08:10.748911 - #217532 - Detected No Violence with confidence 0.81
+2024-08-20T20:08:11.252563 - #411351 - Detected No Violence with confidence 0.87
+2024-08-20T20:08:12.213991 - #102420 - Detected fire+smoke with confidence 0.76
+2024-08-20T20:08:12.255880 - #957628 - Detected No Violence with confidence 0.84
+2024-08-20T20:08:13.011860 - #549261 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:13.583329 - #974938 - Detected No Violence with confidence 0.88
+2024-08-20T20:08:14.189707 - #711578 - Detected No Violence with confidence 0.80
+2024-08-20T20:08:15.932952 - #998368 - Detected No Violence with confidence 0.86
+2024-08-20T20:08:16.462533 - #968531 - Detected No Violence with confidence 0.89
+2024-08-20T20:08:17.182607 - #991010 - Detected No Violence with confidence 0.85
+2024-08-20T20:08:17.731139 - #645320 - Detected No Violence with confidence 0.88
+2024-08-20T20:08:19.053602 - #436292 - Detected No Violence with confidence 0.82
+2024-08-20T20:08:19.609631 - #364995 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:20.304770 - #560383 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:20.935084 - #608923 - Detected No Violence with confidence 0.87
+2024-08-20T20:08:22.638527 - #519753 - Detected No Violence with confidence 0.85
+2024-08-20T20:08:37.447965 - #437889 - Detected No Violence with confidence 0.84
+2024-08-20T20:08:39.459583 - #882253 - Detected No Violence with confidence 0.85
+2024-08-20T20:08:40.738162 - #778568 - Detected No Violence with confidence 0.87
+2024-08-20T20:08:42.649050 - #838101 - Detected No Violence with confidence 0.84
+2024-08-20T20:08:43.081893 - #390581 - Detected No Violence with confidence 0.81
+2024-08-20T20:08:44.638050 - #756402 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:45.286316 - #634827 - Detected No Violence with confidence 0.83
+2024-08-20T20:08:47.986276 - #456273 - Detected No Violence with confidence 0.89
+2024-08-20T20:09:00.014257 - #618511 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:01.420494 - #998710 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:01.832405 - #344534 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:02.323080 - #208317 - Detected No Violence with confidence 0.84
+2024-08-20T20:09:02.855654 - #801916 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:03.911829 - #761143 - Detected No Violence with confidence 0.80
+2024-08-20T20:09:04.325722 - #757600 - Detected No Violence with confidence 0.80
+2024-08-20T20:09:05.346991 - #378758 - Detected No Violence with confidence 0.84
+2024-08-20T20:09:05.922452 - #503391 - Detected No Violence with confidence 0.85
+2024-08-20T20:09:06.475405 - #362787 - Detected No Violence with confidence 0.82
+2024-08-20T20:09:10.107694 - #569809 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:11.201767 - #394742 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:12.211063 - #444761 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:12.690791 - #843156 - Detected No Violence with confidence 0.82
+2024-08-20T20:09:13.196428 - #730698 - Detected No Violence with confidence 0.81
+2024-08-20T20:09:14.370287 - #283598 - Detected No Violence with confidence 0.94
+2024-08-20T20:09:14.937768 - #201236 - Detected No Violence with confidence 0.90
+2024-08-20T20:09:15.457378 - #207629 - Detected No Violence with confidence 0.81
+2024-08-20T20:09:15.801470 - #919060 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:16.215351 - #212778 - Detected No Violence with confidence 0.84
+2024-08-20T20:09:16.721996 - #150777 - Detected No Violence with confidence 0.86
+2024-08-20T20:09:17.391212 - #292439 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:17.961682 - #140094 - Detected No Violence with confidence 0.85
+2024-08-20T20:09:18.446382 - #479871 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:18.860275 - #807050 - Detected No Violence with confidence 0.89
+2024-08-20T20:09:19.255217 - #539896 - Detected No Violence with confidence 0.89
+2024-08-20T20:09:20.965643 - #939655 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:21.529135 - #350160 - Detected No Violence with confidence 0.84
+2024-08-20T20:09:21.964970 - #531307 - Detected No Violence with confidence 0.92
+2024-08-20T20:09:22.479594 - #324615 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:23.780115 - #598982 - Detected No Violence with confidence 0.86
+2024-08-20T20:09:24.342608 - #648420 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:25.019798 - #631018 - Detected No Violence with confidence 0.86
+2024-08-20T20:09:25.511481 - #844061 - Detected No Violence with confidence 0.88
+2024-08-20T20:09:25.993194 - #621010 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:26.509812 - #843200 - Detected No Violence with confidence 0.89
+2024-08-20T20:09:29.143765 - #541674 - Detected No Violence with confidence 0.80
+2024-08-20T20:09:31.298003 - #270755 - Detected No Violence with confidence 0.85
+2024-08-20T20:09:32.016081 - #808563 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:36.121130 - #280046 - Detected No Violence with confidence 0.86
+2024-08-20T20:09:37.488469 - #779936 - Detected No Violence with confidence 0.80
+2024-08-20T20:09:39.590847 - #379779 - Detected No Violence with confidence 0.82
+2024-08-20T20:09:41.314236 - #331229 - Detected No Violence with confidence 0.88
+2024-08-20T20:09:42.621738 - #388568 - Detected No Violence with confidence 0.89
+2024-08-20T20:09:43.355776 - #486043 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:47.390979 - #347907 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:48.314510 - #114194 - Detected No Violence with confidence 0.92
+2024-08-20T20:09:49.794550 - #115946 - Detected No Violence with confidence 0.89
+2024-08-20T20:09:51.196800 - #967552 - Detected No Violence with confidence 0.87
+2024-08-20T20:09:52.824444 - #474130 - Detected No Violence with confidence 0.81
+2024-08-20T20:09:53.542523 - #872618 - Detected No Violence with confidence 0.81
+2024-08-20T20:09:54.141920 - #890391 - Detected No Violence with confidence 0.83
+2024-08-20T20:09:56.222353 - #224439 - Detected No Violence with confidence 0.88
+2024-08-20T20:09:56.836711 - #985463 - Detected No Violence with confidence 0.86
+2024-08-20T20:09:57.301467 - #450220 - Detected No Violence with confidence 0.84
+2024-08-20T20:09:57.752261 - #188477 - Detected No Violence with confidence 0.84
+2024-08-20T20:10:03.651483 - #560327 - Detected No Violence with confidence 0.87
+2024-08-20T20:10:04.743558 - #334757 - Detected No Violence with confidence 0.85
+2024-08-20T20:10:06.201659 - #105967 - Detected No Violence with confidence 0.86
+2024-08-20T20:10:08.082626 - #597331 - Detected No Violence with confidence 0.85
+2024-08-20T20:10:08.787746 - #935286 - Detected Violence with confidence 0.82
+2024-08-20T20:10:12.722214 - #483261 - Detected No Violence with confidence 0.84
+2024-08-20T20:10:17.523370 - #750377 - Detected No Violence with confidence 0.82
+2024-08-20T20:10:18.002088 - #493981 - Detected No Violence with confidence 0.81
+2024-08-20T20:10:18.623427 - #298379 - Detected No Violence with confidence 0.87
+2024-08-20T20:10:23.011687 - #391388 - Detected No Violence with confidence 0.85
+2024-08-20T20:10:27.246359 - #536598 - Detected No Violence with confidence 0.82
+2024-08-20T20:10:31.243666 - #209167 - Detected No Violence with confidence 0.83
+2024-08-20T20:10:36.121617 - #611035 - Detected No Violence with confidence 0.84
+2024-08-20T20:10:39.021858 - #395561 - Detected No Violence with confidence 0.88
+2024-08-20T20:10:40.598639 - #458982 - Detected No Violence with confidence 0.84
+2024-08-20T20:10:52.804985 - #478537 - Detected No Violence with confidence 0.80
+2024-08-20T20:11:17.513884 - #726813 - Detected No Violence with confidence 0.80
+2024-08-20T20:11:41.054910 - #297253 - Detected No Violence with confidence 0.87
+2024-08-20T20:11:47.780916 - #249895 - Detected No Violence with confidence 0.93
+2024-08-20T20:11:51.565790 - #108696 - Detected No Violence with confidence 0.80
+2024-08-20T20:12:00.089988 - #510157 - Detected smoke with confidence 0.85
+2024-08-20T20:12:00.146837 - #693495 - Detected Violence with confidence 0.81
+2024-08-20T20:12:45.209286 - #819495 - Detected smoke with confidence 0.83
+2024-08-20T20:13:20.843985 - #896856 - Detected No Violence with confidence 0.80
+2024-08-20T20:13:24.031459 - #662535 - Detected No Violence with confidence 0.81
+2024-08-20T20:13:30.059333 - #311516 - Detected No Violence with confidence 0.85
+2024-08-20T20:13:30.827279 - #841687 - Detected No Violence with confidence 0.82
+2024-08-20T20:13:31.730862 - #369602 - Detected No Violence with confidence 0.85
+2024-08-20T20:13:33.377457 - #794205 - Detected No Violence with confidence 0.81
+2024-08-20T20:13:37.711862 - #279511 - Detected No Violence with confidence 0.83
+2024-08-20T20:13:55.693271 - #837666 - Detected No Violence with confidence 0.84
+2024-08-20T20:13:59.113127 - #498138 - Detected No Violence with confidence 0.81
+2024-08-20T20:14:09.625000 - #650779 - Detected No Violence with confidence 0.82
+2024-08-20T20:14:11.877973 - #714274 - Detected No Violence with confidence 0.87
+2024-08-20T20:14:12.343730 - #236140 - Detected No Violence with confidence 0.80
+2024-08-20T20:14:16.202412 - #978969 - Detected smoke with confidence 0.81
+2024-08-20T20:14:16.875602 - #419391 - Detected No Violence with confidence 0.82
+2024-08-20T20:14:19.177445 - #284759 - Detected No Violence with confidence 0.85
+2024-08-20T20:14:24.762504 - #453680 - Detected Violence with confidence 0.80
+2024-08-20T20:14:26.873855 - #658967 - Detected smoke with confidence 0.79
+2024-08-20T20:14:31.425680 - #998111 - Detected No Violence with confidence 0.83
+2024-08-20T20:14:34.350869 - #355089 - Detected No Violence with confidence 0.84
+2024-08-20T20:14:41.051927 - #925837 - Detected No Violence with confidence 0.80
+2024-08-20T20:14:42.953843 - #920852 - Detected No Violence with confidence 0.85
+2024-08-20T20:14:48.395283 - #885385 - Detected No Violence with confidence 0.81
+2024-08-20T20:14:58.926110 - #560560 - Detected No Violence with confidence 0.82
+2024-08-20T20:14:59.644190 - #882385 - Detected No Violence with confidence 0.84
+2024-08-20T20:15:01.618906 - #897788 - Detected No Violence with confidence 0.82
+2024-08-20T20:15:03.506859 - #377547 - Detected smoke with confidence 0.86
+2024-08-20T20:15:03.598610 - #664276 - Detected No Violence with confidence 0.81
+2024-08-20T20:15:06.819992 - #951598 - Detected smoke with confidence 0.76
+2024-08-20T20:15:37.573748 - #123994 - Detected smoke with confidence 0.78
+2024-08-20T20:15:38.844347 - #580274 - Detected smoke with confidence 0.80
+2024-08-20T20:15:44.735588 - #449435 - Detected smoke with confidence 0.76
+2024-08-20T20:15:51.023766 - #131351 - Detected smoke with confidence 0.75
+2024-08-20T20:16:01.089837 - #894711 - Detected smoke with confidence 0.76
+2024-08-20T20:16:02.054257 - #454461 - Detected smoke with confidence 0.77
+2024-08-20T20:16:03.465482 - #652137 - Detected smoke with confidence 0.76
+2024-08-20T20:16:11.035231 - #290461 - Detected smoke with confidence 0.78
+2024-08-20T20:16:18.815426 - #965014 - Detected smoke with confidence 0.77
+2024-08-20T20:16:24.653093 - #776806 - Detected smoke with confidence 0.76
+2024-08-20T20:16:26.833262 - #615506 - Detected smoke with confidence 0.79
+2024-08-20T20:16:39.550416 - #443918 - Detected smoke with confidence 0.77
+2024-08-20T20:16:42.616254 - #344830 - Detected smoke with confidence 0.81
+2024-08-20T20:16:45.864680 - #485345 - Detected smoke with confidence 0.75
+2024-08-20T20:16:56.778138 - #582809 - Detected smoke with confidence 0.75
+2024-08-20T20:16:58.953320 - #153702 - Detected smoke with confidence 0.79
+2024-08-20T20:17:01.243196 - #799781 - Detected smoke with confidence 0.76
+2024-08-20T20:17:01.731885 - #420104 - Detected smoke with confidence 0.76
+2024-08-20T20:17:02.238531 - #199586 - Detected smoke with confidence 0.76
+2024-08-20T20:17:23.923661 - #860941 - Detected smoke with confidence 0.77
+2024-08-20T20:17:24.310618 - #540572 - Detected smoke with confidence 0.80
+2024-08-20T20:17:26.287333 - #986334 - Detected smoke with confidence 0.76
+2024-08-20T20:17:27.983791 - #412512 - Detected smoke with confidence 0.76
+2024-08-20T20:17:28.481460 - #174602 - Detected smoke with confidence 0.79
+2024-08-20T20:17:29.454856 - #353018 - Detected smoke with confidence 0.82
+2024-08-20T20:17:29.894680 - #706447 - Detected smoke with confidence 0.82
+2024-08-20T20:17:30.853119 - #431040 - Detected smoke with confidence 0.82
+2024-08-20T20:17:33.828157 - #519297 - Detected smoke with confidence 0.78
+2024-08-20T20:17:35.924548 - #733066 - Detected smoke with confidence 0.78
+2024-08-20T20:17:37.855385 - #427165 - Detected smoke with confidence 0.78
+2024-08-20T20:17:47.275183 - #488171 - Detected smoke with confidence 0.80
+2024-08-20T20:17:48.139387 - #549839 - Detected smoke with confidence 0.76
+2024-08-20T20:17:49.611448 - #635178 - Detected smoke with confidence 0.78
+2024-08-20T20:17:51.277145 - #156847 - Detected smoke with confidence 0.76
+2024-08-20T20:17:53.544576 - #590249 - Detected smoke with confidence 0.75
+2024-08-20T20:17:57.604717 - #861711 - Detected smoke with confidence 0.76
+2024-08-20T20:17:58.093411 - #826087 - Detected smoke with confidence 0.78
+2024-08-20T20:17:59.373985 - #820496 - Detected smoke with confidence 0.78
+2024-08-20T20:18:05.698067 - #175579 - Detected smoke with confidence 0.77
+2024-08-20T20:18:07.593994 - #568895 - Detected smoke with confidence 0.78
+2024-08-20T20:18:09.937726 - #122931 - Detected smoke with confidence 0.75
+2024-08-20T20:18:18.698266 - #768658 - Detected smoke with confidence 0.78
+2024-08-20T20:18:28.634740 - #595438 - Detected smoke with confidence 0.76
+2024-08-20T20:18:44.207654 - #526219 - Detected smoke with confidence 0.78
+2024-08-20T20:18:52.174753 - #821704 - Detected smoke with confidence 0.75
+2024-08-20T20:18:55.395295 - #441529 - Detected smoke with confidence 0.80
+2024-08-20T20:19:09.484549 - #758295 - Detected smoke with confidence 0.76
+2024-08-20T20:19:24.555089 - #520590 - Detected smoke with confidence 0.77
+2024-08-20T20:19:30.106241 - #635652 - Detected smoke with confidence 0.78
+2024-08-20T20:19:30.473260 - #367158 - Detected smoke with confidence 0.75
+2024-08-20T20:19:43.363265 - #611827 - Detected smoke with confidence 0.78
+2024-08-20T20:20:24.875540 - #276523 - Detected smoke with confidence 0.76
+2024-08-20T20:20:28.602570 - #427075 - Detected smoke with confidence 0.77
+2024-08-20T20:20:33.498528 - #352736 - Detected smoke with confidence 0.77
+2024-08-20T20:20:44.110141 - #387628 - Detected smoke with confidence 0.78
+2024-08-20T20:20:46.279340 - #617973 - Detected smoke with confidence 0.76
+2024-08-20T20:21:02.098142 - #605010 - Detected smoke with confidence 0.76
+2024-08-20T20:21:02.959207 - #152296 - Detected smoke with confidence 0.75
+2024-08-20T20:21:11.452789 - #959472 - Detected smoke with confidence 0.80
+2024-08-20T20:21:16.102899 - #245460 - Detected smoke with confidence 0.80
+2024-08-20T20:21:27.444603 - #940611 - Detected smoke with confidence 0.77
+2024-08-20T20:21:28.525713 - #926348 - Detected smoke with confidence 0.75
+2024-08-20T20:21:29.954937 - #182490 - Detected smoke with confidence 0.76
+2024-08-20T20:21:48.677254 - #765805 - Detected smoke with confidence 0.75
+2024-08-20T20:22:03.895108 - #250276 - Detected smoke with confidence 0.76
+2024-08-20T20:22:07.116507 - #836060 - Detected smoke with confidence 0.76
+2024-08-20T20:22:18.090663 - #176872 - Detected smoke with confidence 0.76
+2024-08-20T20:22:26.070285 - #650472 - Detected smoke with confidence 0.79
+2024-08-20T20:22:43.068853 - #735333 - Detected smoke with confidence 0.76
+2024-08-20T20:23:07.198352 - #717162 - Detected smoke with confidence 0.76
+2024-08-20T20:23:09.352590 - #247943 - Detected smoke with confidence 0.76
+2024-08-20T20:23:22.818566 - #530416 - Detected smoke with confidence 0.77
+2024-08-20T20:23:58.621892 - #678949 - Detected smoke with confidence 0.79
+2024-08-20T20:24:01.348596 - #255326 - Detected smoke with confidence 0.78
+2024-08-20T20:24:16.237765 - #423328 - Detected smoke with confidence 0.77
+2024-08-20T20:24:17.482434 - #547771 - Detected smoke with confidence 0.77
+2024-08-20T20:24:27.041873 - #557558 - Detected smoke with confidence 0.78
+2024-08-20T20:24:29.159557 - #458224 - Detected smoke with confidence 0.78
+2024-08-20T20:24:30.596716 - #969944 - Detected smoke with confidence 0.79
+2024-08-20T20:24:46.641789 - #752319 - Detected smoke with confidence 0.76
+2024-08-20T20:24:50.541357 - #913840 - Detected smoke with confidence 0.75
+2024-08-20T20:24:52.203910 - #960789 - Detected smoke with confidence 0.78
+2024-08-20T20:25:10.989913 - #901168 - Detected smoke with confidence 0.80
+2024-08-20T20:25:24.091376 - #886123 - Detected smoke with confidence 0.86
+2024-08-20T20:25:39.041940 - #558014 - Detected smoke with confidence 0.82
+2024-08-20T20:25:40.198844 - #696456 - Detected smoke with confidence 0.87
+2024-08-20T20:25:41.309871 - #645376 - Detected smoke with confidence 0.75
+2024-08-20T20:25:41.908271 - #890877 - Detected smoke with confidence 0.82
+2024-08-20T20:25:42.408932 - #443590 - Detected smoke with confidence 0.81
+2024-08-20T20:25:44.884310 - #805128 - Detected Violence with confidence 0.85
+2024-08-20T20:25:45.456781 - #618212 - Detected smoke with confidence 0.90
+2024-08-20T20:25:45.950458 - #439407 - Detected smoke with confidence 0.81
+2024-08-20T20:25:46.430690 - #550724 - Detected smoke with confidence 0.86
+2024-08-20T20:25:46.943318 - #547458 - Detected smoke with confidence 0.81
+2024-08-20T20:25:47.511799 - #125183 - Detected smoke with confidence 0.76
+2024-08-20T20:25:48.730565 - #618024 - Detected smoke with confidence 0.83
+2024-08-20T20:25:49.234191 - #565602 - Detected smoke with confidence 0.84
+2024-08-20T20:25:50.262440 - #289326 - Detected smoke with confidence 0.76
+2024-08-20T20:25:50.844882 - #540523 - Detected smoke with confidence 0.83
+2024-08-20T20:25:51.962889 - #393889 - Detected smoke with confidence 0.77
+2024-08-20T20:25:52.447594 - #843882 - Detected smoke with confidence 0.82
+2024-08-20T20:25:53.187616 - #161684 - Detected smoke with confidence 0.77
+2024-08-20T20:25:53.962542 - #701753 - Detected smoke with confidence 0.86
+2024-08-20T20:25:54.687602 - #411517 - Detected smoke with confidence 0.81
+2024-08-20T20:25:55.466518 - #372809 - Detected smoke with confidence 0.86
+2024-08-20T20:25:56.189584 - #545838 - Detected smoke with confidence 0.76
+2024-08-20T20:26:09.268529 - #375045 - Detected smoke with confidence 0.80
+2024-08-20T20:26:09.824045 - #479754 - Detected smoke with confidence 0.86
+2024-08-20T20:26:10.316727 - #776772 - Detected smoke with confidence 0.90
+2024-08-20T20:26:10.715658 - #749766 - Detected smoke with confidence 0.86
+2024-08-20T20:26:11.145508 - #791708 - Detected smoke with confidence 0.83
+2024-08-20T20:26:11.660131 - #706495 - Detected smoke with confidence 0.88
+2024-08-20T20:26:12.656465 - #853112 - Detected smoke with confidence 0.77
+2024-08-20T20:26:13.182060 - #722894 - Detected smoke with confidence 0.87
+2024-08-20T20:26:14.555386 - #472974 - Detected smoke with confidence 0.83
+2024-08-20T20:26:16.075320 - #347158 - Detected smoke with confidence 0.83
+2024-08-20T20:26:16.552044 - #758452 - Detected smoke with confidence 0.85
+2024-08-20T20:26:17.978230 - #167228 - Detected smoke with confidence 0.78
+2024-08-20T20:26:18.482880 - #412857 - Detected smoke with confidence 0.78
+2024-08-20T20:26:18.960602 - #722439 - Detected smoke with confidence 0.86
+2024-08-20T20:26:23.801649 - #690316 - Detected No Violence with confidence 0.83
+2024-08-20T20:26:24.276380 - #764229 - Detected No Violence with confidence 0.86
+2024-08-20T20:26:25.192929 - #170425 - Detected No Violence with confidence 0.89
+2024-08-20T20:26:25.580891 - #357741 - Detected No Violence with confidence 0.92
+2024-08-20T20:26:25.985807 - #305919 - Detected No Violence with confidence 0.88
+2024-08-20T20:26:26.493453 - #639231 - Detected No Violence with confidence 0.93
+2024-08-20T20:26:26.993118 - #820389 - Detected No Violence with confidence 0.92
+2024-08-20T20:26:29.117430 - #704854 - Detected No Violence with confidence 0.80
+2024-08-20T20:26:41.954850 - #454780 - Detected No Violence with confidence 0.81
+2024-08-20T20:26:42.432571 - #860316 - Detected No Violence with confidence 0.84
+2024-08-20T20:26:42.926250 - #408324 - Detected No Violence with confidence 0.85
+2024-08-20T20:27:02.012194 - #822112 - Detected smoke with confidence 0.87
+2024-08-20T20:27:13.144410 - #748012 - Detected smoke with confidence 0.80
+2024-08-20T20:27:24.065195 - #506056 - Detected smoke with confidence 0.81
+2024-08-20T20:27:31.205098 - #174035 - Detected smoke with confidence 0.85
+2024-08-20T20:27:33.929807 - #992951 - Detected smoke with confidence 0.76
+2024-08-20T20:27:47.474574 - #268106 - Detected smoke with confidence 0.84
+2024-08-20T20:27:48.579617 - #519918 - Detected smoke with confidence 0.76
+2024-08-20T20:27:54.521720 - #960349 - Detected smoke with confidence 0.76
+2024-08-20T20:28:01.069207 - #789125 - Detected smoke with confidence 0.82
+2024-08-20T20:28:05.246032 - #497444 - Detected smoke with confidence 0.76
+2024-08-20T20:28:24.333968 - #230323 - Detected smoke with confidence 0.77
+2024-08-20T20:28:26.711607 - #605043 - Detected smoke with confidence 0.75
+2024-08-20T20:28:27.293052 - #259329 - Detected No Violence with confidence 0.82
+2024-08-20T20:28:27.316988 - #480585 - Detected smoke with confidence 0.83
+2024-08-20T20:28:27.935334 - #236073 - Detected smoke with confidence 0.78
+2024-08-20T20:28:28.586591 - #386456 - Detected smoke with confidence 0.76
+2024-08-20T20:28:29.291705 - #589693 - Detected smoke with confidence 0.78
+2024-08-20T20:28:37.209039 - #529950 - Detected smoke with confidence 0.76
+2024-08-20T20:28:38.156503 - #675591 - Detected smoke with confidence 0.77
+2024-08-20T20:28:38.785825 - #267087 - Detected smoke with confidence 0.77
+2024-08-20T20:28:49.912056 - #648815 - Detected smoke with confidence 0.78
+2024-08-20T20:28:50.776754 - #156834 - Detected smoke with confidence 0.77
+2024-08-20T20:28:52.281719 - #558036 - Detected smoke with confidence 0.77
+2024-08-20T20:28:53.206243 - #873023 - Detected smoke with confidence 0.90
+2024-08-20T20:28:53.906373 - #730892 - Detected smoke with confidence 0.78
+2024-08-20T20:28:54.967148 - #628392 - Detected smoke with confidence 0.84
+2024-08-20T20:28:57.907323 - #817889 - Detected smoke with confidence 0.85
+2024-08-20T20:29:00.542274 - #526131 - Detected smoke with confidence 0.84
+2024-08-20T20:29:09.468397 - #969323 - Detected smoke with confidence 0.81
+2024-08-20T20:29:10.515594 - #526248 - Detected smoke with confidence 0.79
+2024-08-20T20:29:12.079412 - #865269 - Detected smoke with confidence 0.76
+2024-08-20T20:29:14.039168 - #616982 - Detected smoke with confidence 0.81
+2024-08-20T20:29:20.637516 - #303362 - Detected smoke with confidence 0.90
+2024-08-20T20:29:21.559051 - #215496 - Detected smoke with confidence 0.93
+2024-08-20T20:29:22.516489 - #262724 - Detected smoke with confidence 0.91
+2024-08-20T20:29:23.079982 - #261986 - Detected smoke with confidence 0.90
+2024-08-20T20:29:23.775122 - #444526 - Detected smoke with confidence 0.77
+2024-08-20T20:29:24.280770 - #326576 - Detected smoke with confidence 0.80
+2024-08-20T20:29:24.803372 - #996385 - Detected smoke with confidence 0.87
+2024-08-20T20:29:26.162735 - #484663 - Detected smoke with confidence 0.80
+2024-08-20T20:29:26.901757 - #770305 - Detected smoke with confidence 0.80
+2024-08-20T20:29:30.353551 - #672419 - Detected smoke with confidence 0.81
+2024-08-20T20:29:32.377137 - #803547 - Detected smoke with confidence 0.85
+2024-08-20T20:29:33.070284 - #123207 - Detected smoke with confidence 0.79
+2024-08-20T20:29:33.744480 - #407750 - Detected smoke with confidence 0.77
+2024-08-20T20:29:34.914350 - #178365 - Detected smoke with confidence 0.85
+2024-08-20T20:29:35.490807 - #717736 - Detected smoke with confidence 0.85
+2024-08-20T20:29:36.004434 - #424779 - Detected smoke with confidence 0.81
+2024-08-20T20:29:36.553963 - #322605 - Detected smoke with confidence 0.86
+2024-08-20T20:29:37.102497 - #615860 - Detected smoke with confidence 0.77
+2024-08-20T20:29:37.644049 - #986836 - Detected smoke with confidence 0.77
+2024-08-20T20:29:38.205547 - #314509 - Detected smoke with confidence 0.82
+2024-08-20T20:29:39.245763 - #519699 - Detected smoke with confidence 0.76
+2024-08-20T20:29:42.707503 - #512550 - Detected smoke with confidence 0.75
+2024-08-20T20:29:43.355768 - #840392 - Detected smoke with confidence 0.78
+2024-08-20T20:29:44.378034 - #493985 - Detected smoke with confidence 0.77
+2024-08-20T20:29:45.115062 - #488858 - Detected smoke with confidence 0.80
+2024-08-20T20:29:45.922902 - #808122 - Detected smoke with confidence 0.84
+2024-08-20T20:29:46.561193 - #698221 - Detected smoke with confidence 0.89
+2024-08-20T20:29:47.252345 - #134373 - Detected smoke with confidence 0.93
+2024-08-20T20:29:47.843785 - #228924 - Detected smoke with confidence 0.77
+2024-08-20T20:29:48.471105 - #156919 - Detected smoke with confidence 0.88
+2024-08-20T20:29:49.247031 - #186555 - Detected smoke with confidence 0.77
+2024-08-20T20:29:49.871360 - #592766 - Detected smoke with confidence 0.78
+2024-08-20T20:29:50.473749 - #682127 - Detected smoke with confidence 0.89
+2024-08-20T20:29:51.058185 - #836517 - Detected smoke with confidence 0.82
+2024-08-20T20:29:51.702461 - #451195 - Detected smoke with confidence 0.87
+2024-08-20T20:29:52.240023 - #416596 - Detected smoke with confidence 0.80
+2024-08-20T20:29:52.891280 - #658795 - Detected smoke with confidence 0.84
+2024-08-20T20:29:54.023253 - #481280 - Detected smoke with confidence 0.89
+2024-08-20T20:29:54.531893 - #495547 - Detected smoke with confidence 0.88
+2024-08-20T20:29:55.111348 - #871453 - Detected smoke with confidence 0.81
+2024-08-20T20:29:55.755618 - #422480 - Detected smoke with confidence 0.83
+2024-08-20T20:29:56.432808 - #176932 - Detected smoke with confidence 0.77
+2024-08-20T20:29:57.052151 - #194910 - Detected smoke with confidence 0.83
+2024-08-20T20:29:57.610658 - #515373 - Detected smoke with confidence 0.78
+2024-08-20T20:29:58.245958 - #363708 - Detected smoke with confidence 0.85
+2024-08-20T20:29:58.869294 - #798552 - Detected smoke with confidence 0.82
+2024-08-20T20:29:59.486638 - #853237 - Detected smoke with confidence 0.77
+2024-08-20T20:30:00.095010 - #469021 - Detected smoke with confidence 0.79
+2024-08-20T20:30:00.890883 - #317992 - Detected smoke with confidence 0.84
+2024-08-20T20:30:01.456369 - #845684 - Detected smoke with confidence 0.80
+2024-08-20T20:30:02.033823 - #486096 - Detected smoke with confidence 0.80
+2024-08-20T20:30:02.710017 - #439811 - Detected smoke with confidence 0.77
+2024-08-20T20:30:03.310410 - #339397 - Detected smoke with confidence 0.83
+2024-08-20T20:30:04.523178 - #912011 - Detected smoke with confidence 0.85
+2024-08-20T20:30:05.051751 - #324483 - Detected smoke with confidence 0.81
+2024-08-20T20:30:05.708992 - #813511 - Detected smoke with confidence 0.86
+2024-08-20T20:30:06.405130 - #572231 - Detected smoke with confidence 0.78
+2024-08-20T20:30:07.075337 - #322648 - Detected smoke with confidence 0.88
+2024-08-20T20:30:07.678724 - #163230 - Detected smoke with confidence 0.79
+2024-08-20T20:30:08.385831 - #710143 - Detected smoke with confidence 0.86
+2024-08-20T20:30:09.839945 - #648094 - Detected smoke with confidence 0.78
+2024-08-20T20:30:12.516781 - #492441 - Detected smoke with confidence 0.86
+2024-08-20T20:30:13.117174 - #630240 - Detected smoke with confidence 0.84
+2024-08-20T20:30:13.713587 - #701371 - Detected smoke with confidence 0.81
+2024-08-20T20:30:14.586244 - #598876 - Detected smoke with confidence 0.75
+2024-08-20T20:30:15.312302 - #689718 - Detected smoke with confidence 0.82
+2024-08-20T20:30:16.031377 - #950151 - Detected smoke with confidence 0.81
+2024-08-20T20:30:16.636758 - #509318 - Detected smoke with confidence 0.85
+2024-08-20T20:30:17.219201 - #283960 - Detected smoke with confidence 0.82
+2024-08-20T20:30:18.093877 - #754243 - Detected smoke with confidence 0.82
+2024-08-20T20:30:18.977496 - #434227 - Detected smoke with confidence 0.81
+2024-08-20T20:30:19.827224 - #230443 - Detected smoke with confidence 0.83
+2024-08-20T20:30:20.771698 - #540517 - Detected smoke with confidence 0.78
+2024-08-20T20:30:21.534658 - #450338 - Detected smoke with confidence 0.80
+2024-08-20T20:30:22.243760 - #462256 - Detected smoke with confidence 0.77
+2024-08-20T20:30:31.130983 - #714919 - Detected smoke with confidence 0.84
+2024-08-20T20:30:32.823456 - #670477 - Detected smoke with confidence 0.79
+2024-08-20T20:30:34.381289 - #699287 - Detected smoke with confidence 0.75
+2024-08-20T20:30:51.422700 - #334179 - Detected smoke with confidence 0.86
+2024-08-20T20:30:53.254799 - #349242 - Detected smoke with confidence 0.83
+2024-08-20T20:30:55.273399 - #171259 - Detected smoke with confidence 0.79
+2024-08-20T20:31:03.431605 - #535103 - Detected smoke with confidence 0.78
+2024-08-20T20:31:08.595788 - #338903 - Detected smoke with confidence 0.75
+2024-08-20T20:31:18.555146 - #473100 - Detected smoke with confidence 0.84
+2024-08-20T20:31:21.809439 - #297383 - Detected smoke with confidence 0.75
+2024-08-20T20:31:22.832703 - #651859 - Detected smoke with confidence 0.78
+2024-08-20T20:31:24.200044 - #840435 - Detected smoke with confidence 0.83
+2024-08-20T20:31:25.903487 - #401443 - Detected smoke with confidence 0.85
+2024-08-20T20:31:27.227945 - #437565 - Detected smoke with confidence 0.87
+2024-08-20T20:31:29.579655 - #106746 - Detected smoke with confidence 0.77
+2024-08-20T20:31:30.103253 - #904057 - Detected smoke with confidence 0.86
+2024-08-20T20:31:31.014814 - #813194 - Detected smoke with confidence 0.78
+2024-08-20T20:31:34.562324 - #952704 - Detected smoke with confidence 0.82
+2024-08-20T20:31:35.171693 - #694581 - Detected smoke with confidence 0.90
+2024-08-20T20:31:35.715242 - #393903 - Detected smoke with confidence 0.81
+2024-08-20T20:31:37.139429 - #817333 - Detected smoke with confidence 0.85
+2024-08-20T20:31:39.737480 - #393439 - Detected smoke with confidence 0.82
+2024-08-20T20:31:41.134741 - #877873 - Detected smoke with confidence 0.83
+2024-08-20T20:31:41.728156 - #300977 - Detected smoke with confidence 0.87
+2024-08-20T20:31:42.908994 - #787366 - Detected No Violence with confidence 0.82
+2024-08-20T20:31:42.927944 - #323211 - Detected smoke with confidence 0.85
+2024-08-20T20:31:43.462516 - #258690 - Detected smoke with confidence 0.77
+2024-08-20T20:31:45.446208 - #746638 - Detected smoke with confidence 0.79
+2024-08-20T20:31:46.451519 - #722492 - Detected smoke with confidence 0.81
+2024-08-20T20:31:46.988088 - #683832 - Detected smoke with confidence 0.77
+2024-08-20T20:31:47.557559 - #352714 - Detected smoke with confidence 0.75
+2024-08-20T20:31:48.242727 - #998769 - Detected smoke with confidence 0.87
+2024-08-20T20:31:48.835141 - #730602 - Detected smoke with confidence 0.87
+2024-08-20T20:31:49.418580 - #934359 - Detected smoke with confidence 0.84
+2024-08-20T20:31:52.521288 - #266157 - Detected smoke with confidence 0.76
+2024-08-20T20:31:53.423867 - #811137 - Detected smoke with confidence 0.78
+2024-08-20T20:31:55.273434 - #307204 - Detected smoke with confidence 0.75
+2024-08-20T20:31:57.923345 - #500916 - Detected smoke with confidence 0.78
+2024-08-20T20:31:58.725200 - #487823 - Detected smoke with confidence 0.78
+2024-08-20T20:32:00.774718 - #177854 - Detected smoke with confidence 0.85
+2024-08-20T20:32:01.794987 - #160270 - Detected smoke with confidence 0.83
+2024-08-20T20:32:04.060927 - #478087 - Detected smoke with confidence 0.83
+2024-08-20T20:32:04.816904 - #489048 - Detected smoke with confidence 0.85
+2024-08-20T20:32:06.392688 - #248731 - Detected smoke with confidence 0.86
+2024-08-20T20:32:07.298268 - #954504 - Detected smoke with confidence 0.85
+2024-08-20T20:32:08.127049 - #319788 - Detected smoke with confidence 0.89
+2024-08-20T20:32:09.410616 - #428918 - Detected smoke with confidence 0.83
+2024-08-20T20:32:10.709145 - #257780 - Detected smoke with confidence 0.88
+2024-08-20T20:32:11.452152 - #542076 - Detected smoke with confidence 0.83
+2024-08-20T20:32:12.064521 - #945529 - Detected smoke with confidence 0.91
+2024-08-20T20:32:12.693831 - #149158 - Detected smoke with confidence 0.82
+2024-08-20T20:32:13.447815 - #188302 - Detected smoke with confidence 0.82
+2024-08-20T20:32:15.138310 - #292984 - Detected smoke with confidence 0.80
+2024-08-20T20:32:16.130638 - #540782 - Detected smoke with confidence 0.86
+2024-08-20T20:32:17.763269 - #498095 - Detected smoke with confidence 0.81
+2024-08-20T20:32:19.915512 - #203915 - Detected smoke with confidence 0.87
+2024-08-20T20:32:24.393537 - #609152 - Detected smoke with confidence 0.77
+2024-08-20T20:32:27.062393 - #518514 - Detected smoke with confidence 0.81
+2024-08-20T20:32:28.894491 - #309521 - Detected smoke with confidence 0.91
+2024-08-20T20:32:30.434372 - #275161 - Detected smoke with confidence 0.89
+2024-08-20T20:32:31.016817 - #328415 - Detected smoke with confidence 0.80
+2024-08-20T20:32:31.614217 - #225053 - Detected smoke with confidence 0.84
+2024-08-20T20:32:39.714547 - #409475 - Detected smoke with confidence 0.77
+2024-08-20T20:32:40.267071 - #434410 - Detected smoke with confidence 0.84
+2024-08-20T20:32:46.895337 - #537735 - Detected smoke with confidence 0.82
+2024-08-20T20:32:47.551581 - #435435 - Detected smoke with confidence 0.81
+2024-08-20T20:32:48.189873 - #439677 - Detected smoke with confidence 0.85
+2024-08-20T20:32:48.791265 - #756584 - Detected smoke with confidence 0.80
+2024-08-20T20:32:49.292922 - #199380 - Detected smoke with confidence 0.79
+2024-08-20T20:32:49.864394 - #871631 - Detected smoke with confidence 0.79
+2024-08-20T20:32:50.447833 - #355567 - Detected smoke with confidence 0.83
+2024-08-20T20:32:51.063187 - #103455 - Detected smoke with confidence 0.85
+2024-08-20T20:32:51.610734 - #626167 - Detected smoke with confidence 0.85
+2024-08-20T20:32:53.082783 - #451714 - Detected smoke with confidence 0.82
+2024-08-20T20:32:53.804859 - #972930 - Detected smoke with confidence 0.89
+2024-08-20T20:32:54.475067 - #964050 - Detected smoke with confidence 0.84
+2024-08-20T20:32:55.046534 - #584644 - Detected smoke with confidence 0.76
+2024-08-20T20:32:55.533228 - #977598 - Detected smoke with confidence 0.85
+2024-08-20T20:32:58.400558 - #710868 - Detected smoke with confidence 0.75
+2024-08-20T20:33:02.562428 - #613794 - Detected smoke with confidence 0.80
+2024-08-20T20:33:03.719331 - #513926 - Detected smoke with confidence 0.77
+2024-08-20T20:33:04.350641 - #379159 - Detected smoke with confidence 0.79
+2024-08-20T20:33:06.109933 - #996047 - Detected smoke with confidence 0.86
+2024-08-20T20:33:06.578682 - #923295 - Detected smoke with confidence 0.85
+2024-08-20T20:33:07.914107 - #940607 - Detected smoke with confidence 0.81
+2024-08-20T20:33:09.351263 - #798581 - Detected smoke with confidence 0.78
+2024-08-20T20:33:11.889987 - #489250 - Detected smoke with confidence 0.89
+2024-08-20T20:33:12.641975 - #144437 - Detected smoke with confidence 0.78
+2024-08-20T20:33:14.239703 - #547680 - Detected smoke with confidence 0.81
+2024-08-20T20:33:15.083445 - #766510 - Detected smoke with confidence 0.83
+2024-08-20T20:33:15.853383 - #219779 - Detected smoke with confidence 0.82
+2024-08-20T20:33:16.476716 - #763798 - Detected smoke with confidence 0.75
+2024-08-20T20:33:17.257626 - #301279 - Detected smoke with confidence 0.79
+2024-08-20T20:33:18.682814 - #899414 - Detected smoke with confidence 0.78
+2024-08-20T20:33:19.268249 - #943895 - Detected smoke with confidence 0.84
+2024-08-20T20:33:21.987488 - #654840 - Detected smoke with confidence 0.79
+2024-08-20T20:33:26.561253 - #385633 - Detected smoke with confidence 0.79
+2024-08-20T20:33:27.531657 - #186390 - Detected smoke with confidence 0.84
+2024-08-20T20:33:29.287958 - #850979 - Detected smoke with confidence 0.84
+2024-08-20T20:33:32.995040 - #716789 - Detected smoke with confidence 0.82
+2024-08-20T20:33:33.532604 - #982656 - Detected smoke with confidence 0.81
+2024-08-20T20:33:34.108064 - #889721 - Detected smoke with confidence 0.77
+2024-08-20T20:33:34.726409 - #132388 - Detected smoke with confidence 0.77
+2024-08-20T20:33:37.617674 - #363956 - Detected smoke with confidence 0.76
+2024-08-20T20:33:40.407212 - #830755 - Detected smoke with confidence 0.85
+2024-08-20T20:33:40.851025 - #910892 - Detected No Violence with confidence 0.80
+2024-08-20T20:33:40.875962 - #379912 - Detected smoke with confidence 0.82
+2024-08-20T20:33:41.263920 - #585851 - Detected smoke with confidence 0.77
+2024-08-20T20:33:42.382050 - #796113 - Detected smoke with confidence 0.77
+2024-08-20T20:33:43.766340 - #550078 - Detected smoke with confidence 0.80
+2024-08-20T20:33:44.141336 - #481630 - Detected smoke with confidence 0.87
+2024-08-20T20:33:46.960793 - #768859 - Detected smoke with confidence 0.76
+2024-08-20T20:33:47.927209 - #714381 - Detected smoke with confidence 0.81
+2024-08-20T20:33:49.563830 - #590219 - Detected smoke with confidence 0.83
+2024-08-20T20:33:50.256976 - #748466 - Detected smoke with confidence 0.83
+2024-08-20T20:33:52.194792 - #131715 - Detected smoke with confidence 0.85
+2024-08-20T20:33:55.303478 - #291627 - Detected smoke with confidence 0.89
+2024-08-20T20:33:56.739635 - #323927 - Detected smoke with confidence 0.80
+2024-08-20T20:33:59.412485 - #209168 - Detected smoke with confidence 0.88
+2024-08-20T20:33:59.962012 - #876348 - Detected smoke with confidence 0.84
+2024-08-20T20:34:00.514535 - #947940 - Detected smoke with confidence 0.86
+2024-08-20T20:34:01.258544 - #878320 - Detected No Violence with confidence 0.80
+2024-08-20T20:34:01.971638 - #410652 - Detected smoke with confidence 0.84
+2024-08-20T20:34:02.025494 - #281383 - Detected No Violence with confidence 0.86
+2024-08-20T20:34:03.008874 - #842873 - Detected smoke with confidence 0.85
+2024-08-20T20:34:04.324344 - #260262 - Detected smoke with confidence 0.80
+2024-08-20T20:34:04.821013 - #378305 - Detected smoke with confidence 0.76
+2024-08-20T20:34:05.409440 - #798542 - Detected smoke with confidence 0.82
+2024-08-20T20:34:06.701991 - #539327 - Detected smoke with confidence 0.84
+2024-08-20T20:34:10.014122 - #446036 - Detected smoke with confidence 0.86
+2024-08-20T20:34:15.127443 - #209195 - Detected smoke with confidence 0.76
+2024-08-20T20:34:19.005076 - #637792 - Detected smoke with confidence 0.85
+2024-08-20T20:34:19.814904 - #826979 - Detected smoke with confidence 0.90
+2024-08-20T20:34:20.656652 - #295915 - Detected smoke with confidence 0.89
+2024-08-20T20:34:21.395677 - #714801 - Detected smoke with confidence 0.81
+2024-08-20T20:34:22.016022 - #755021 - Detected smoke with confidence 0.86
+2024-08-20T20:34:22.517674 - #834595 - Detected No Violence with confidence 0.85
+2024-08-20T20:34:26.662585 - #778838 - Detected smoke with confidence 0.76
+2024-08-20T20:34:30.600051 - #209589 - Detected Violence with confidence 0.86
+2024-08-20T20:34:31.667197 - #228728 - Detected smoke with confidence 0.79
+2024-08-20T20:34:35.258591 - #712854 - Detected smoke with confidence 0.76
+2024-08-20T20:34:35.738306 - #733888 - Detected smoke with confidence 0.86
+2024-08-20T20:34:36.215033 - #516831 - Detected smoke with confidence 0.84
+2024-08-20T20:34:36.806448 - #163342 - Detected smoke with confidence 0.82
+2024-08-20T20:34:42.258862 - #497394 - Detected smoke with confidence 0.83
+2024-08-20T20:34:44.950661 - #591003 - Detected smoke with confidence 0.77
+2024-08-20T20:34:45.599925 - #333311 - Detected smoke with confidence 0.85
+2024-08-20T20:34:47.765132 - #901761 - Detected smoke with confidence 0.85
+2024-08-20T20:34:49.074629 - #656284 - Detected No Violence with confidence 0.85
+2024-08-20T20:34:49.535396 - #428901 - Detected No Violence with confidence 0.88
+2024-08-20T20:34:51.539035 - #939255 - Detected No Violence with confidence 0.82
+2024-08-20T20:34:52.108522 - #219534 - Detected No Violence with confidence 0.88
+2024-08-20T20:34:52.623135 - #948299 - Detected smoke with confidence 0.83
+2024-08-20T20:34:54.154040 - #764681 - Detected smoke with confidence 0.77
+2024-08-20T20:34:58.524477 - #722854 - Detected No Violence with confidence 0.86
+2024-08-20T20:34:59.761168 - #410081 - Detected smoke with confidence 0.77
+2024-08-20T20:34:59.795078 - #421303 - Detected No Violence with confidence 0.81
+2024-08-20T20:35:00.668742 - #786905 - Detected smoke with confidence 0.84
+2024-08-20T20:35:01.248193 - #186779 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:01.837614 - #822051 - Detected smoke with confidence 0.85
+2024-08-20T20:35:02.452967 - #826736 - Detected smoke with confidence 0.82
+2024-08-20T20:35:03.061339 - #862890 - Detected smoke with confidence 0.77
+2024-08-20T20:35:04.000829 - #954497 - Detected smoke with confidence 0.86
+2024-08-20T20:35:04.019217 - #237773 - Detected Violence with confidence 0.82
+2024-08-20T20:35:04.688425 - #190533 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:05.703710 - #122393 - Detected smoke with confidence 0.77
+2024-08-20T20:35:07.245584 - #340506 - Detected smoke with confidence 0.86
+2024-08-20T20:35:07.286475 - #959367 - Detected No Violence with confidence 0.84
+2024-08-20T20:35:07.828027 - #787216 - Detected No Violence with confidence 0.82
+2024-08-20T20:35:07.850965 - #673106 - Detected smoke with confidence 0.79
+2024-08-20T20:35:08.326693 - #457036 - Detected smoke with confidence 0.81
+2024-08-20T20:35:08.331678 - #296504 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:08.831343 - #835329 - Detected smoke with confidence 0.80
+2024-08-20T20:35:09.312058 - #240430 - Detected smoke with confidence 0.85
+2024-08-20T20:35:09.978275 - #881833 - Detected smoke with confidence 0.86
+2024-08-20T20:35:10.478936 - #805234 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:10.486914 - #302687 - Detected fire+smoke with confidence 0.76
+2024-08-20T20:35:10.967628 - #435709 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:11.365580 - #888253 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:13.138819 - #196310 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:16.153754 - #298574 - Detected smoke with confidence 0.81
+2024-08-20T20:35:17.011459 - #206856 - Detected No Violence with confidence 0.84
+2024-08-20T20:35:17.041380 - #661134 - Detected fire+smoke with confidence 0.80
+2024-08-20T20:35:17.806333 - #545999 - Detected smoke with confidence 0.83
+2024-08-20T20:35:19.870810 - #288986 - Detected No Violence with confidence 0.88
+2024-08-20T20:35:19.890756 - #194012 - Detected smoke with confidence 0.77
+2024-08-20T20:35:21.168339 - #932325 - Detected fire+smoke with confidence 0.78
+2024-08-20T20:35:21.171331 - #195420 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:21.877447 - #665902 - Detected fire+smoke with confidence 0.78
+2024-08-20T20:35:21.903373 - #694480 - Detected No Violence with confidence 0.84
+2024-08-20T20:35:23.924964 - #822021 - Detected No Violence with confidence 0.88
+2024-08-20T20:35:24.537326 - #715317 - Detected No Violence with confidence 0.87
+2024-08-20T20:35:25.142708 - #997606 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:26.497083 - #596191 - Detected No Violence with confidence 0.87
+2024-08-20T20:35:27.047610 - #879564 - Detected No Violence with confidence 0.87
+2024-08-20T20:35:27.637034 - #826746 - Detected fire+smoke with confidence 0.77
+2024-08-20T20:35:27.665975 - #974103 - Detected No Violence with confidence 0.87
+2024-08-20T20:35:28.210502 - #870644 - Detected No Violence with confidence 0.84
+2024-08-20T20:35:28.225462 - #796236 - Detected smoke with confidence 0.86
+2024-08-20T20:35:29.357431 - #402640 - Detected smoke with confidence 0.82
+2024-08-20T20:35:29.357431 - #330677 - Detected fire+smoke with confidence 0.81
+2024-08-20T20:35:29.371402 - #959182 - Detected No Violence with confidence 0.81
+2024-08-20T20:35:30.488407 - #968579 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:31.636851 - #197602 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:32.267163 - #977401 - Detected smoke with confidence 0.85
+2024-08-20T20:35:32.268161 - #286247 - Detected fire+smoke with confidence 0.80
+2024-08-20T20:35:33.502859 - #434960 - Detected No Violence with confidence 0.88
+2024-08-20T20:35:34.089290 - #924461 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:34.679709 - #548377 - Detected smoke with confidence 0.84
+2024-08-20T20:35:35.262152 - #340234 - Detected No Violence with confidence 0.85
+2024-08-20T20:35:35.876509 - #153173 - Detected No Violence with confidence 0.85
+2024-08-20T20:35:36.447013 - #737345 - Detected No Violence with confidence 0.87
+2024-08-20T20:35:37.047377 - #123554 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:37.735535 - #125799 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:38.397763 - #917303 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:39.015112 - #134293 - Detected No Violence with confidence 0.87
+2024-08-20T20:35:39.034061 - #761022 - Detected fire+smoke with confidence 0.75
+2024-08-20T20:35:39.563648 - #435258 - Detected No Violence with confidence 0.89
+2024-08-20T20:35:40.121153 - #949114 - Detected fire+smoke with confidence 0.79
+2024-08-20T20:35:40.750471 - #576739 - Detected No Violence with confidence 0.84
+2024-08-20T20:35:41.440624 - #981242 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:42.173662 - #850191 - Detected smoke with confidence 0.78
+2024-08-20T20:35:42.204579 - #910478 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:43.369464 - #895331 - Detected smoke with confidence 0.83
+2024-08-20T20:35:43.401377 - #984448 - Detected No Violence with confidence 0.85
+2024-08-20T20:35:43.925974 - #233330 - Detected No Violence with confidence 0.82
+2024-08-20T20:35:44.470038 - #779426 - Detected No Violence with confidence 0.80
+2024-08-20T20:35:44.487990 - #999822 - Detected smoke with confidence 0.78
+2024-08-20T20:35:45.564110 - #685977 - Detected smoke with confidence 0.81
+2024-08-20T20:35:46.142573 - #693112 - Detected No Violence with confidence 0.89
+2024-08-20T20:35:46.734978 - #346990 - Detected No Violence with confidence 0.83
+2024-08-20T20:35:47.318418 - #788009 - Detected No Violence with confidence 0.85
+2024-08-20T20:35:47.842038 - #820281 - Detected No Violence with confidence 0.86
+2024-08-20T20:35:48.470337 - #449434 - Detected No Violence with confidence 0.85
+2024-08-20T20:35:49.858623 - #640965 - Detected No Violence with confidence 0.88
+2024-08-20T20:35:50.519854 - #456974 - Detected fire+smoke with confidence 0.77
+2024-08-20T20:35:51.681761 - #676654 - Detected No Violence with confidence 0.84
+2024-08-20T20:35:58.251216 - #346202 - Detected No Violence with confidence 0.88
+2024-08-20T20:35:58.256203 - #894461 - Detected smoke with confidence 0.78
+2024-08-20T20:35:58.686054 - #934072 - Detected smoke with confidence 0.75
+2024-08-20T20:35:58.702010 - #684785 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:04.320978 - #979350 - Detected No Violence with confidence 0.82
+2024-08-20T20:36:04.947305 - #777724 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:05.978544 - #939757 - Detected No Violence with confidence 0.85
+2024-08-20T20:36:07.851536 - #618333 - Detected No Violence with confidence 0.80
+2024-08-20T20:36:08.597539 - #613632 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:09.213892 - #159885 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:10.265079 - #824814 - Detected fire+smoke with confidence 0.77
+2024-08-20T20:36:10.286022 - #513657 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:11.417025 - #448121 - Detected fire+smoke with confidence 0.76
+2024-08-20T20:36:11.461876 - #477316 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:12.016393 - #973567 - Detected fire+smoke with confidence 0.76
+2024-08-20T20:36:12.029358 - #207165 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:12.651694 - #720853 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:13.888384 - #379661 - Detected smoke with confidence 0.80
+2024-08-20T20:36:13.920299 - #592076 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:14.594496 - #721802 - Detected No Violence with confidence 0.85
+2024-08-20T20:36:15.140036 - #784681 - Detected No Violence with confidence 0.85
+2024-08-20T20:36:15.679593 - #962616 - Detected smoke with confidence 0.79
+2024-08-20T20:36:16.294946 - #662869 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:16.907308 - #742435 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:17.460828 - #957037 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:18.132032 - #702177 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:18.540938 - #242765 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:19.113407 - #352596 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:19.135348 - #628481 - Detected fire+smoke with confidence 0.80
+2024-08-20T20:36:20.295246 - #245394 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:20.845773 - #221487 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:21.371368 - #864395 - Detected No Violence with confidence 0.83
+2024-08-20T20:36:21.902951 - #427409 - Detected No Violence with confidence 0.80
+2024-08-20T20:36:22.936199 - #175477 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:22.985052 - #108524 - Detected smoke with confidence 0.77
+2024-08-20T20:36:23.581454 - #187285 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:24.124015 - #481026 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:24.697468 - #520865 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:25.127318 - #676322 - Detected No Violence with confidence 0.85
+2024-08-20T20:36:25.138289 - #857730 - Detected smoke with confidence 0.76
+2024-08-20T20:36:25.627979 - #151340 - Detected No Violence with confidence 0.90
+2024-08-20T20:36:26.167536 - #499429 - Detected No Violence with confidence 0.85
+2024-08-20T20:36:27.319453 - #245917 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:27.332421 - #538530 - Detected smoke with confidence 0.77
+2024-08-20T20:36:29.003482 - #301245 - Detected No Violence with confidence 0.85
+2024-08-20T20:36:29.579941 - #274958 - Detected No Violence with confidence 0.82
+2024-08-20T20:36:30.231198 - #591533 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:30.793694 - #185118 - Detected fire+smoke with confidence 0.76
+2024-08-20T20:36:32.422395 - #286947 - Detected No Violence with confidence 0.82
+2024-08-20T20:36:32.997859 - #993850 - Detected No Violence with confidence 0.83
+2024-08-20T20:36:33.590270 - #231704 - Detected No Violence with confidence 0.80
+2024-08-20T20:36:34.720247 - #287206 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:34.763132 - #594814 - Detected smoke with confidence 0.78
+2024-08-20T20:36:35.320536 - #645850 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:36.089482 - #916001 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:39.956136 - #902186 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:40.651275 - #840277 - Detected smoke with confidence 0.81
+2024-08-20T20:36:42.864356 - #572011 - Detected smoke with confidence 0.76
+2024-08-20T20:36:43.461757 - #720471 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:44.009292 - #966355 - Detected smoke with confidence 0.82
+2024-08-20T20:36:45.276905 - #369562 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:45.960074 - #915152 - Detected No Violence with confidence 0.85
+2024-08-20T20:36:47.046168 - #848130 - Detected smoke with confidence 0.80
+2024-08-20T20:36:47.646561 - #328289 - Detected No Violence with confidence 0.82
+2024-08-20T20:36:48.284855 - #691709 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:49.526531 - #962321 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:49.950406 - #954679 - Detected No Violence with confidence 0.82
+2024-08-20T20:36:50.969152 - #814473 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:51.011042 - #918297 - Detected fire+smoke with confidence 0.80
+2024-08-20T20:36:51.588496 - #831855 - Detected No Violence with confidence 0.86
+2024-08-20T20:36:52.235764 - #958584 - Detected No Violence with confidence 0.87
+2024-08-20T20:36:52.410297 - #961668 - Detected fire+smoke with confidence 0.78
+2024-08-20T20:36:54.794917 - #920572 - Detected smoke with confidence 0.77
+2024-08-20T20:36:56.929210 - #639301 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:57.367037 - #740585 - Detected No Violence with confidence 0.84
+2024-08-20T20:36:57.877673 - #967808 - Detected No Violence with confidence 0.83
+2024-08-20T20:36:58.433185 - #372374 - Detected No Violence with confidence 0.82
+2024-08-20T20:36:59.030587 - #951913 - Detected No Violence with confidence 0.81
+2024-08-20T20:36:59.653922 - #192887 - Detected fire+smoke with confidence 0.77
+2024-08-20T20:36:59.660900 - #276319 - Detected No Violence with confidence 0.86
+2024-08-20T20:37:00.218411 - #857209 - Detected No Violence with confidence 0.87
+2024-08-20T20:37:00.666211 - #615968 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:01.949778 - #779571 - Detected smoke with confidence 0.77
+2024-08-20T20:37:03.307147 - #164068 - Detected smoke with confidence 0.83
+2024-08-20T20:37:04.984658 - #598446 - Detected No Violence with confidence 0.82
+2024-08-20T20:37:05.600012 - #629217 - Detected No Violence with confidence 0.85
+2024-08-20T20:37:06.383920 - #610597 - Detected No Violence with confidence 0.82
+2024-08-20T20:37:08.628910 - #838299 - Detected No Violence with confidence 0.82
+2024-08-20T20:37:09.254243 - #673446 - Detected fire+smoke with confidence 0.79
+2024-08-20T20:37:09.301111 - #165256 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:09.879576 - #562193 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:10.723306 - #992457 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:11.329684 - #154284 - Detected No Violence with confidence 0.83
+2024-08-20T20:37:12.197364 - #164000 - Detected No Violence with confidence 0.86
+2024-08-20T20:37:12.908478 - #810633 - Detected No Violence with confidence 0.83
+2024-08-20T20:37:13.642498 - #316927 - Detected fire+smoke with confidence 0.77
+2024-08-20T20:37:13.654481 - #919999 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:14.197015 - #423002 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:15.125529 - #661744 - Detected No Violence with confidence 0.87
+2024-08-20T20:37:15.164428 - #640607 - Detected smoke with confidence 0.83
+2024-08-20T20:37:15.795745 - #884544 - Detected No Violence with confidence 0.88
+2024-08-20T20:37:17.926037 - #754533 - Detected smoke with confidence 0.80
+2024-08-20T20:37:18.547376 - #825250 - Detected smoke with confidence 0.77
+2024-08-20T20:37:18.570315 - #173877 - Detected No Violence with confidence 0.86
+2024-08-20T20:37:19.075961 - #229105 - Detected smoke with confidence 0.79
+2024-08-20T20:37:19.593577 - #257854 - Detected smoke with confidence 0.85
+2024-08-20T20:37:19.612526 - #419908 - Detected No Violence with confidence 0.80
+2024-08-20T20:37:20.299688 - #705918 - Detected No Violence with confidence 0.85
+2024-08-20T20:37:20.929004 - #768093 - Detected smoke with confidence 0.85
+2024-08-20T20:37:20.981865 - #653647 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:21.614172 - #790487 - Detected No Violence with confidence 0.88
+2024-08-20T20:37:22.357184 - #645668 - Detected No Violence with confidence 0.85
+2024-08-20T20:37:23.175993 - #682898 - Detected No Violence with confidence 0.85
+2024-08-20T20:37:24.424653 - #911937 - Detected No Violence with confidence 0.87
+2024-08-20T20:37:25.073917 - #823413 - Detected smoke with confidence 0.82
+2024-08-20T20:37:25.082892 - #289795 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:26.000439 - #124068 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:26.542000 - #250725 - Detected No Violence with confidence 0.85
+2024-08-20T20:37:27.075571 - #423298 - Detected fire+smoke with confidence 0.76
+2024-08-20T20:37:27.081556 - #519297 - Detected No Violence with confidence 0.83
+2024-08-20T20:37:27.913330 - #849777 - Detected No Violence with confidence 0.85
+2024-08-20T20:37:28.560603 - #784331 - Detected No Violence with confidence 0.82
+2024-08-20T20:37:29.098166 - #305267 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:30.172287 - #676745 - Detected No Violence with confidence 0.87
+2024-08-20T20:37:30.733785 - #543197 - Detected No Violence with confidence 0.86
+2024-08-20T20:37:31.353130 - #545966 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:32.491084 - #829422 - Detected No Violence with confidence 0.88
+2024-08-20T20:37:32.957837 - #764539 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:33.629040 - #693123 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:34.938537 - #461400 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:35.475101 - #773903 - Detected No Violence with confidence 0.81
+2024-08-20T20:37:38.919886 - #305527 - Detected No Violence with confidence 0.90
+2024-08-20T20:37:40.149597 - #416109 - Detected No Violence with confidence 0.86
+2024-08-20T20:37:42.292863 - #774557 - Detected No Violence with confidence 0.85
+2024-08-20T20:37:46.204400 - #981373 - Detected No Violence with confidence 0.83
+2024-08-20T20:37:46.742957 - #970626 - Detected No Violence with confidence 0.83
+2024-08-20T20:37:47.262569 - #347527 - Detected No Violence with confidence 0.87
+2024-08-20T20:37:48.630911 - #464878 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:49.445728 - #965727 - Detected smoke with confidence 0.77
+2024-08-20T20:37:50.044129 - #871268 - Detected No Violence with confidence 0.86
+2024-08-20T20:37:50.532820 - #113230 - Detected smoke with confidence 0.79
+2024-08-20T20:37:50.560745 - #371858 - Detected No Violence with confidence 0.84
+2024-08-20T20:37:52.192380 - #657796 - Detected No Violence with confidence 0.83

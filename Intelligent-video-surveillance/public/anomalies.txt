@@ -1,0 +1,480 @@
+2024-07-17T23:48:49.117105 - #420393 - detected No Violence with confidence 0.83 at [115, 168, 588, 480]
+2024-07-17T23:48:52.337373 - #786331 - detected smoke with confidence 0.58 at [445, 0, 640, 113]
+2024-07-17T23:48:52.867212 - #842171 - detected No Violence with confidence 0.82 at [115, 101, 625, 479]
+2024-07-17T23:50:23.591491 - #367782 - detected fire+smoke with confidence 0.52 at [469, 322, 497, 384]
+2024-07-17T23:50:30.720428 - #992785 - detected fire+smoke with confidence 0.63 at [469, 321, 497, 386]
+2024-07-17T23:50:31.598327 - #600537 - detected fire+smoke with confidence 0.58 at [469, 324, 497, 387]
+2024-07-17T23:50:31.598327 - #476452 - detected fire+smoke with confidence 0.53 at [327, 271, 357, 342]
+2024-07-17T23:50:34.931167 - #521390 - detected fire+smoke with confidence 0.53 at [470, 328, 496, 389]
+2024-07-17T23:50:57.792131 - #629546 - detected knife with confidence 0.75 at [0, 200, 369, 445]
+2024-07-17T23:50:58.027643 - #831976 - detected Violence with confidence 0.90 at [2, 203, 369, 443]
+2024-07-17T23:50:58.663758 - #939949 - detected knife with confidence 0.66 at [2, 196, 389, 438]
+2024-07-17T23:50:58.934035 - #434545 - detected Violence with confidence 0.91 at [3, 198, 388, 436]
+2024-07-17T23:50:59.612014 - #628377 - detected knife with confidence 0.64 at [2, 308, 204, 460]
+2024-07-17T23:50:59.865346 - #315859 - detected Violence with confidence 0.92 at [3, 310, 200, 457]
+2024-07-17T23:51:00.468154 - #941427 - detected knife with confidence 0.64 at [1, 305, 201, 468]
+2024-07-17T23:51:04.576953 - #140783 - detected knife with confidence 0.61 at [0, 230, 405, 462]
+2024-07-17T23:51:04.812180 - #925834 - detected Violence with confidence 0.92 at [2, 233, 404, 461]
+2024-07-17T23:51:31.976770 - #698414 - detected fire+smoke with confidence 0.54 at [476, 339, 501, 392]
+2024-07-17T23:51:34.071171 - #729663 - detected fire+smoke with confidence 0.63 at [478, 344, 500, 393]
+2024-07-17T23:52:19.523365 - #885643 - detected fire+smoke with confidence 0.53 at [392, 329, 417, 391]
+2024-07-17T23:52:20.515912 - #438602 - detected fire+smoke with confidence 0.54 at [387, 334, 413, 394]
+2024-07-17T23:52:26.918617 - #694106 - detected fire+smoke with confidence 0.50 at [395, 339, 421, 396]
+2024-07-18T00:07:14.136177 - #717214 - detected knife with confidence 0.63 at [250, 193, 352, 480]
+2024-07-18T00:07:14.429887 - #282527 - detected No Violence with confidence 0.89 at [252, 195, 348, 477]
+2024-07-18T00:07:15.571551 - #988033 - detected knife with confidence 0.70 at [256, 201, 366, 480]
+2024-07-18T00:07:16.128062 - #359777 - detected No Violence with confidence 0.87 at [260, 202, 365, 477]
+2024-07-18T00:07:39.234852 - #332107 - detected knife with confidence 0.72 at [58, 282, 405, 477]
+2024-07-18T00:07:40.742819 - #510143 - detected knife with confidence 0.81 at [60, 283, 408, 478]
+2024-07-18T00:07:51.530833 - #913476 - detected knife with confidence 0.80 at [75, 287, 411, 477]
+2024-07-18T00:08:36.540935 - #862291 - detected smoke with confidence 0.52 at [426, 0, 639, 121]
+2024-07-18T00:08:53.117799 - #205876 - detected smoke with confidence 0.53 at [429, 0, 639, 122]
+2024-07-18T00:09:02.672569 - #578613 - detected smoke with confidence 0.70 at [449, 0, 639, 121]
+2024-07-18T00:09:28.728906 - #367096 - detected Violence with confidence 0.80 at [34, 92, 440, 480]
+2024-07-18T00:09:30.008213 - #861652 - detected Violence with confidence 0.87 at [47, 96, 441, 479]
+2024-07-18T00:09:48.285501 - #498271 - detected Violence with confidence 0.81 at [45, 98, 439, 479]
+2024-07-18T00:10:05.003502 - #435933 - detected Violence with confidence 0.80 at [21, 104, 427, 480]
+2024-07-18T00:10:07.026094 - #416685 - detected Violence with confidence 0.84 at [17, 94, 433, 480]
+2024-07-18T00:10:20.265277 - #223731 - detected Violence with confidence 0.81 at [21, 101, 434, 480]
+2024-07-18T00:10:21.905890 - #997976 - detected Violence with confidence 0.85 at [26, 100, 430, 479]
+2024-07-18T00:10:27.393332 - #628509 - detected smoke with confidence 0.51 at [437, 0, 640, 118]
+2024-07-18T00:11:07.323865 - #854159 - detected smoke with confidence 0.72 at [0, 41, 211, 479]
+2024-07-18T00:11:08.184563 - #990672 - detected Violence with confidence 0.97 at [4, 43, 208, 477]
+2024-07-18T00:11:09.967800 - #893978 - detected gun with confidence 0.63 at [77, 110, 144, 235]
+2024-07-18T00:11:22.358658 - #148663 - detected gun with confidence 0.65 at [82, 114, 144, 225]
+2024-07-18T00:11:26.138552 - #133563 - detected gun with confidence 0.74 at [80, 114, 143, 228]
+2024-07-18T00:12:13.380383 - #418566 - detected fire+smoke with confidence 0.55 at [312, 314, 340, 380]
+2024-07-18T00:12:14.648769 - #876964 - detected fire+smoke with confidence 0.58 at [311, 316, 338, 383]
+2024-07-18T00:12:35.332705 - #717689 - detected Violence with confidence 0.85 at [137, 5, 638, 478]
+2024-07-18T00:12:46.802352 - #724000 - detected Violence with confidence 0.84 at [122, 11, 596, 477]
+2024-07-18T00:12:48.198619 - #355897 - detected Violence with confidence 0.85 at [119, 6, 596, 478]
+2024-07-18T00:14:28.435726 - #325915 - detected Violence with confidence 0.83 at [131, 17, 584, 479]
+2024-07-18T00:14:46.691505 - #101441 - detected Violence with confidence 0.83 at [140, 23, 584, 480]
+2024-07-18T00:15:04.007384 - #800154 - detected Violence with confidence 0.83 at [40, 48, 614, 479]
+2024-07-18T00:15:17.465362 - #919329 - detected knife with confidence 0.73 at [287, 99, 415, 296]
+2024-07-18T00:15:19.012222 - #799887 - detected knife with confidence 0.84 at [295, 102, 420, 292]
+2024-07-18T00:15:19.380240 - #831185 - detected No Violence with confidence 0.92 at [297, 103, 417, 290]
+2024-07-18T00:15:31.292438 - #953056 - detected Violence with confidence 0.86 at [130, 24, 571, 479]
+2024-07-18T00:15:46.070775 - #123792 - detected Violence with confidence 0.86 at [88, 0, 605, 480]
+2024-07-18T00:15:58.116805 - #981211 - detected Violence with confidence 0.85 at [135, 26, 574, 479]
+2024-07-18T00:15:59.667668 - #464904 - detected Violence with confidence 0.84 at [135, 23, 575, 479]
+2024-07-18T00:16:13.116212 - #746467 - detected Violence with confidence 0.87 at [143, 35, 583, 479]
+2024-07-18T00:16:13.407435 - #497929 - detected Violence with confidence 0.88 at [132, 39, 585, 478]
+2024-07-18T00:16:25.544210 - #297899 - detected Violence with confidence 0.87 at [144, 20, 574, 479]
+2024-07-18T00:16:27.214742 - #164936 - detected Violence with confidence 0.85 at [131, 22, 583, 479]
+2024-07-18T00:16:42.053580 - #321215 - detected Violence with confidence 0.86 at [43, 0, 629, 479]
+2024-07-18T00:16:35.737950 - #921728 - detected smoke with confidence 0.60 at [253, 0, 527, 154]
+2024-07-18T00:16:43.586482 - #360023 - detected No Violence with confidence 0.97 at [253, 0, 526, 154]
+2024-07-18T00:16:43.587479 - #365965 - detected Violence with confidence 0.92 at [74, 160, 636, 479]
+2024-07-18T00:16:43.588476 - #972865 - detected Violence with confidence 0.84 at [85, 0, 626, 480]
+2024-07-18T00:18:12.856322 - #200243 - detected Violence with confidence 0.83 at [135, 17, 582, 479]
+2024-07-18T00:18:14.880908 - #902640 - detected Violence with confidence 0.85 at [137, 24, 578, 478]
+2024-07-18T00:18:37.164315 - #621211 - detected fire+smoke with confidence 0.52 at [399, 81, 418, 127]
+2024-07-18T00:18:37.484850 - #324637 - detected knife with confidence 0.69 at [196, 194, 352, 480]
+2024-07-18T00:18:39.130450 - #719058 - detected Violence with confidence 0.82 at [88, 1, 562, 480]
+2024-07-18T00:18:51.576195 - #885550 - detected Violence with confidence 0.88 at [75, 0, 561, 455]
+2024-07-18T00:18:52.994404 - #346668 - detected Violence with confidence 0.90 at [77, 0, 563, 455]
+2024-07-18T00:19:05.273573 - #270655 - detected Violence with confidence 0.87 at [69, 0, 540, 449]
+2024-07-18T00:19:06.912716 - #979174 - detected Violence with confidence 0.92 at [0, 0, 615, 446]
+2024-07-18T00:19:52.951333 - #885784 - detected Violence with confidence 0.85 at [136, 18, 549, 480]
+2024-07-18T00:19:54.413420 - #866664 - detected Violence with confidence 0.83 at [116, 17, 556, 480]
+2024-07-18T00:20:07.558292 - #935410 - detected Violence with confidence 0.82 at [80, 5, 570, 480]
+2024-07-18T00:20:07.920324 - #161821 - detected Violence with confidence 0.80 at [79, 5, 573, 480]
+2024-07-18T00:20:08.147728 - #306880 - detected smoke with confidence 0.78 at [225, 0, 469, 110]
+2024-07-18T00:20:09.240794 - #570452 - detected Violence with confidence 0.89 at [54, 108, 604, 480]
+2024-07-18T00:20:14.858761 - #328326 - detected smoke with confidence 0.56 at [224, 0, 477, 100]
+2024-07-18T00:20:20.900606 - #623193 - detected Violence with confidence 0.86 at [50, 96, 598, 480]
+2024-07-18T00:20:21.964791 - #129521 - detected Violence with confidence 0.88 at [64, 0, 560, 480]
+2024-07-18T00:20:36.550219 - #777272 - detected smoke with confidence 0.50 at [0, 154, 84, 478]
+2024-07-18T00:21:00.887769 - #433639 - detected Violence with confidence 0.86 at [192, 0, 506, 383]
+2024-07-18T00:21:19.801766 - #697176 - detected Violence with confidence 0.82 at [251, 0, 636, 464]
+2024-07-18T00:21:21.480998 - #667684 - detected Violence with confidence 0.81 at [257, 0, 618, 465]
+2024-07-18T00:21:36.873551 - #719190 - detected Violence with confidence 0.81 at [261, 0, 614, 423]
+2024-07-18T00:21:48.569702 - #358245 - detected Violence with confidence 0.83 at [258, 0, 608, 456]
+2024-07-18T00:23:42.163128 - #243753 - detected Violence with confidence 0.81 at [390, 0, 639, 464]
+2024-07-18T00:24:24.544061 - #758119 - detected knife with confidence 0.63 at [0, 30, 141, 479]
+2024-07-18T00:24:44.342537 - #234801 - detected knife with confidence 0.66 at [0, 33, 138, 479]
+2024-07-18T00:24:45.658978 - #683861 - detected knife with confidence 0.63 at [0, 28, 140, 479]
+2024-07-18T00:24:59.943924 - #320381 - detected knife with confidence 0.61 at [0, 31, 140, 480]
+2024-07-18T00:25:21.360694 - #949060 - detected knife with confidence 0.61 at [0, 53, 137, 396]
+2024-07-18T00:25:21.614126 - #691725 - detected No Violence with confidence 0.93 at [3, 54, 140, 394]
+2024-07-18T00:25:29.530227 - #368771 - detected knife with confidence 0.62 at [147, 199, 359, 436]
+2024-07-18T00:25:33.067400 - #915976 - detected knife with confidence 0.67 at [147, 204, 371, 435]
+2024-07-18T00:25:33.527170 - #489388 - detected No Violence with confidence 0.90 at [147, 205, 369, 433]
+2024-07-18T00:25:43.565746 - #395829 - detected knife with confidence 0.71 at [0, 58, 137, 272]
+2024-07-18T00:25:48.129543 - #373084 - detected knife with confidence 0.77 at [0, 0, 173, 476]
+2024-07-18T00:25:59.797735 - #151688 - detected knife with confidence 0.61 at [0, 3, 172, 476]
+2024-07-18T00:26:18.039831 - #142684 - detected knife with confidence 0.64 at [0, 14, 190, 480]
+2024-07-18T00:26:42.475287 - #992367 - detected knife with confidence 0.67 at [0, 14, 190, 480]
+2024-07-18T00:26:57.874636 - #709819 - detected knife with confidence 0.68 at [0, 17, 189, 480]
+2024-07-18T00:27:33.993908 - #480212 - detected knife with confidence 0.69 at [0, 16, 190, 480]
+2024-07-18T00:27:48.575665 - #670420 - detected knife with confidence 0.79 at [0, 14, 179, 480]
+2024-07-18T00:27:50.503509 - #306721 - detected knife with confidence 0.60 at [0, 11, 180, 480]
+2024-07-18T00:28:05.833515 - #316315 - detected knife with confidence 0.67 at [0, 14, 179, 480]
+2024-07-18T00:28:07.301821 - #188740 - detected knife with confidence 0.67 at [0, 10, 181, 479]
+2024-07-18T00:28:19.068687 - #401049 - detected knife with confidence 0.71 at [0, 8, 179, 480]
+2024-07-18T00:28:40.465595 - #401923 - detected knife with confidence 0.60 at [0, 5, 192, 473]
+2024-07-18T00:28:54.333896 - #344075 - detected knife with confidence 0.62 at [0, 18, 216, 480]
+2024-07-18T00:28:55.405169 - #199619 - detected knife with confidence 0.62 at [0, 16, 216, 480]
+2024-07-18T00:29:06.698513 - #345906 - detected knife with confidence 0.79 at [0, 20, 216, 480]
+2024-07-18T00:29:41.907199 - #991713 - detected knife with confidence 0.60 at [0, 6, 204, 478]
+2024-07-18T00:29:51.077491 - #363346 - detected knife with confidence 0.60 at [0, 7, 204, 478]
+2024-07-18T00:30:19.722082 - #973544 - detected Violence with confidence 0.81 at [118, 0, 506, 288]
+2024-07-18T00:31:27.615312 - #998138 - detected smoke with confidence 0.78 at [53, 0, 154, 81]
+2024-07-18T00:35:03.698081 - #230735 - detected knife with confidence 0.66 at [0, 112, 221, 480]
+2024-07-18T00:35:51.188093 - #532803 - detected knife with confidence 0.75 at [120, 282, 447, 480]
+2024-07-18T00:35:51.417240 - #844441 - detected No Violence with confidence 0.87 at [125, 280, 445, 476]
+2024-07-18T00:35:52.548044 - #938882 - detected knife with confidence 0.77 at [136, 277, 414, 479]
+2024-07-18T00:35:52.939996 - #463978 - detected No Violence with confidence 0.94 at [141, 277, 414, 475]
+2024-07-18T00:36:08.648720 - #195359 - detected knife with confidence 0.76 at [90, 118, 308, 478]
+2024-07-18T00:36:09.783727 - #461077 - detected knife with confidence 0.62 at [99, 121, 314, 479]
+2024-07-18T00:36:24.869703 - #576112 - detected fire+smoke with confidence 0.65 at [385, 159, 404, 211]
+2024-07-18T00:36:45.636059 - #941120 - detected knife with confidence 0.76 at [449, 326, 511, 479]
+2024-07-18T00:36:46.989439 - #756330 - detected knife with confidence 0.64 at [451, 332, 505, 478]
+2024-07-18T00:36:55.236385 - #396749 - detected fire+smoke with confidence 0.57 at [330, 173, 349, 227]
+2024-07-18T00:37:53.901741 - #461457 - detected fire+smoke with confidence 0.65 at [198, 314, 302, 409]
+2024-07-18T00:38:01.755768 - #274330 - detected fire+smoke with confidence 0.62 at [202, 317, 298, 408]
+2024-07-18T00:38:14.151655 - #743631 - detected fire+smoke with confidence 0.72 at [166, 81, 293, 199]
+2024-07-18T00:38:19.976445 - #377387 - detected fire+smoke with confidence 0.55 at [280, 112, 305, 187]
+2024-07-18T00:39:00.631291 - #843798 - detected knife with confidence 0.68 at [158, 46, 379, 467]
+2024-07-18T00:39:00.889600 - #591750 - detected Violence with confidence 0.97 at [162, 46, 378, 471]
+2024-07-18T00:39:01.618650 - #832268 - detected knife with confidence 0.77 at [160, 53, 376, 477]
+2024-07-18T00:39:01.965725 - #479709 - detected Violence with confidence 0.94 at [164, 54, 373, 478]
+2024-07-18T00:39:14.028707 - #208015 - detected fire+smoke with confidence 0.52 at [282, 132, 320, 214]
+2024-07-18T00:39:29.060433 - #336062 - detected fire+smoke with confidence 0.51 at [267, 155, 301, 223]
+2024-07-18T00:39:29.902390 - #113138 - detected fire+smoke with confidence 0.61 at [278, 150, 306, 216]
+2024-07-18T00:39:36.507975 - #900007 - detected fire+smoke with confidence 0.58 at [280, 128, 310, 196]
+2024-07-18T00:40:13.895215 - #786931 - detected knife with confidence 0.77 at [126, 200, 230, 476]
+2024-07-18T00:40:14.962035 - #531880 - detected knife with confidence 0.74 at [122, 197, 224, 478]
+2024-07-18T00:40:31.631473 - #428998 - detected fire+smoke with confidence 0.50 at [279, 266, 308, 330]
+2024-07-18T00:40:39.060530 - #107452 - detected fire+smoke with confidence 0.52 at [272, 267, 304, 333]
+2024-07-18T00:40:59.793623 - #947732 - detected fire+smoke with confidence 0.51 at [216, 251, 324, 349]
+2024-07-18T00:41:01.484103 - #947634 - detected fire+smoke with confidence 0.57 at [238, 258, 322, 359]
+2024-07-18T00:41:17.996787 - #493624 - detected fire+smoke with confidence 0.55 at [265, 290, 293, 350]
+2024-07-18T00:41:55.638874 - #961877 - detected Unknown with confidence 0.56 at [260, 3, 479, 480]
+2024-07-18T00:41:55.869299 - #825045 - detected knife with confidence 0.62 at [320, 29, 471, 469]
+2024-07-18T00:41:56.103477 - #463066 - detected Violence with confidence 0.81 at [318, 26, 471, 471]
+2024-07-18T00:41:56.426720 - #114080 - detected Unknown with confidence 0.59 at [270, 4, 480, 480]
+2024-07-18T00:41:57.035459 - #892803 - detected knife with confidence 0.72 at [320, 24, 471, 469]
+2024-07-18T00:42:03.379833 - #640384 - detected smoke with confidence 0.72 at [162, 0, 281, 168]
+2024-07-18T00:42:09.581252 - #707404 - detected No Violence with confidence 0.92 at [161, 0, 285, 169]
+2024-07-18T00:42:45.519868 - #936869 - detected fire+smoke with confidence 0.54 at [230, 250, 356, 354]
+2024-07-18T00:43:01.689201 - #248085 - detected fire+smoke with confidence 0.51 at [227, 252, 350, 358]
+2024-07-18T00:43:30.743807 - #782329 - detected fire+smoke with confidence 0.63 at [234, 249, 330, 352]
+2024-07-18T00:43:31.756746 - #691406 - detected fire+smoke with confidence 0.61 at [223, 250, 326, 354]
+2024-07-18T00:43:43.586066 - #909851 - detected knife with confidence 0.69 at [263, 195, 409, 480]
+2024-07-18T00:43:44.299322 - #431747 - detected knife with confidence 0.61 at [272, 197, 409, 479]
+2024-07-18T00:43:45.110435 - #568180 - detected knife with confidence 0.66 at [265, 195, 409, 479]
+2024-07-18T00:43:45.657970 - #764704 - detected fire+smoke with confidence 0.53 at [291, 264, 316, 323]
+2024-07-18T00:43:46.933876 - #207426 - detected knife with confidence 0.72 at [264, 196, 402, 479]
+2024-07-18T00:43:47.785598 - #871203 - detected knife with confidence 0.71 at [264, 194, 400, 479]
+2024-07-18T00:43:48.613778 - #762402 - detected knife with confidence 0.75 at [269, 195, 399, 479]
+2024-07-18T00:43:49.543156 - #577119 - detected knife with confidence 0.71 at [265, 195, 399, 479]
+2024-07-18T00:43:50.732077 - #962483 - detected knife with confidence 0.72 at [266, 196, 401, 479]
+2024-07-18T00:43:51.623954 - #834412 - detected knife with confidence 0.70 at [264, 194, 394, 480]
+2024-07-18T00:43:52.740646 - #524941 - detected knife with confidence 0.71 at [256, 193, 401, 480]
+2024-07-18T00:43:53.380720 - #842916 - detected smoke with confidence 0.50 at [161, 0, 277, 155]
+2024-07-18T00:43:53.666434 - #285411 - detected knife with confidence 0.70 at [268, 196, 398, 479]
+2024-07-18T00:43:54.336054 - #456956 - detected fire+smoke with confidence 0.58 at [290, 265, 316, 323]
+2024-07-18T00:43:55.770215 - #590671 - detected knife with confidence 0.72 at [270, 197, 398, 478]
+2024-07-18T00:43:56.614329 - #875696 - detected knife with confidence 0.73 at [266, 194, 403, 479]
+2024-07-18T00:43:57.507543 - #929849 - detected knife with confidence 0.77 at [266, 196, 404, 480]
+2024-07-18T00:43:57.771836 - #970781 - detected Violence with confidence 0.86 at [268, 196, 400, 477]
+2024-07-18T00:43:58.552748 - #940792 - detected knife with confidence 0.76 at [261, 195, 403, 480]
+2024-07-18T00:43:58.793569 - #157075 - detected Violence with confidence 0.81 at [264, 194, 400, 476]
+2024-07-18T00:43:59.104389 - #163500 - detected smoke with confidence 0.63 at [164, 0, 274, 157]
+2024-07-18T00:43:59.347905 - #631183 - detected knife with confidence 0.75 at [265, 196, 403, 480]
+2024-07-18T00:43:59.618855 - #618040 - detected Violence with confidence 0.85 at [268, 197, 400, 478]
+2024-07-18T00:44:00.123286 - #214501 - detected smoke with confidence 0.64 at [166, 0, 273, 155]
+2024-07-18T00:44:00.479355 - #647008 - detected knife with confidence 0.78 at [264, 196, 403, 478]
+2024-07-18T00:44:00.775543 - #241094 - detected Violence with confidence 0.89 at [268, 196, 400, 475]
+2024-07-18T00:44:01.404065 - #387194 - detected knife with confidence 0.75 at [270, 196, 403, 478]
+2024-07-18T00:44:01.643429 - #116211 - detected Violence with confidence 0.91 at [273, 196, 400, 475]
+2024-07-18T00:44:01.954934 - #499595 - detected smoke with confidence 0.56 at [165, 0, 276, 159]
+2024-07-18T00:44:02.270101 - #180304 - detected knife with confidence 0.75 at [265, 198, 404, 480]
+2024-07-18T00:44:02.540699 - #462140 - detected Violence with confidence 0.85 at [268, 199, 401, 477]
+2024-07-18T00:44:03.084244 - #250338 - detected smoke with confidence 0.64 at [166, 0, 275, 158]
+2024-07-18T00:44:03.694612 - #284511 - detected knife with confidence 0.75 at [272, 200, 402, 478]
+2024-07-18T00:44:04.176325 - #540576 - detected Violence with confidence 0.90 at [276, 200, 401, 477]
+2024-07-18T00:44:04.447599 - #573909 - detected smoke with confidence 0.51 at [164, 0, 277, 161]
+2024-07-18T00:44:04.681973 - #823556 - detected knife with confidence 0.75 at [275, 197, 402, 478]
+2024-07-18T00:44:05.189909 - #323207 - detected smoke with confidence 0.58 at [167, 0, 274, 158]
+2024-07-18T00:44:05.458222 - #538021 - detected knife with confidence 0.77 at [277, 201, 390, 477]
+2024-07-18T00:44:05.759419 - #318604 - detected No Violence with confidence 0.86 at [279, 202, 388, 476]
+2024-07-18T00:44:07.331319 - #653121 - detected smoke with confidence 0.76 at [154, 0, 281, 169]
+2024-07-18T00:44:07.928220 - #468189 - detected No Violence with confidence 0.93 at [155, 0, 284, 170]
+2024-07-18T00:44:08.241270 - #917715 - detected smoke with confidence 0.62 at [160, 0, 283, 159]
+2024-07-18T00:44:08.790796 - #686698 - detected No Violence with confidence 0.84 at [163, 0, 280, 157]
+2024-07-18T00:44:14.200235 - #438316 - detected smoke with confidence 0.52 at [191, 0, 305, 165]
+2024-07-18T00:44:14.697373 - #138912 - detected No Violence with confidence 0.89 at [188, 0, 308, 166]
+2024-07-18T00:44:15.522706 - #720278 - detected smoke with confidence 0.62 at [194, 0, 306, 173]
+2024-07-18T00:44:16.786324 - #196095 - detected No Violence with confidence 0.85 at [193, 0, 306, 174]
+2024-07-18T00:44:17.251561 - #988574 - detected smoke with confidence 0.55 at [192, 0, 311, 186]
+2024-07-18T00:44:18.755414 - #861505 - detected smoke with confidence 0.62 at [197, 0, 306, 169]
+2024-07-18T00:44:19.570236 - #608622 - detected No Violence with confidence 0.86 at [198, 0, 306, 170]
+2024-07-18T00:44:20.488779 - #747132 - detected smoke with confidence 0.54 at [196, 0, 306, 177]
+2024-07-18T00:44:21.268694 - #868743 - detected No Violence with confidence 0.85 at [195, 0, 307, 179]
+2024-07-18T00:46:15.195647 - #995896 - detected smoke with confidence 0.56 at [196, 0, 309, 177]
+2024-07-18T00:46:15.731216 - #437736 - detected No Violence with confidence 0.83 at [196, 0, 308, 178]
+2024-07-18T00:46:28.234862 - #613189 - detected smoke with confidence 0.62 at [194, 0, 306, 180]
+2024-07-18T00:46:30.209581 - #204017 - detected No Violence with confidence 0.89 at [193, 0, 306, 180]
+2024-07-18T00:46:39.378926 - #992145 - detected smoke with confidence 0.54 at [194, 0, 304, 165]
+2024-07-18T00:46:44.789738 - #494500 - detected No Violence with confidence 0.83 at [193, 0, 303, 166]
+2024-07-18T01:23:01.509111 - #729575 - detected smoke with confidence 0.64 at [0, 114, 116, 469]
+2024-07-18T01:23:22.752517 - #893337 - detected No Violence with confidence 0.86 at [261, 291, 496, 479]
+2024-07-18T01:23:24.112707 - #813125 - detected gun with confidence 0.63 at [472, 131, 534, 203]
+2024-07-18T01:23:34.453100 - #236400 - detected gun with confidence 0.69 at [471, 130, 535, 202]
+2024-07-18T01:23:35.671653 - #144136 - detected gun with confidence 0.61 at [472, 130, 533, 199]
+2024-07-18T01:23:38.885088 - #332276 - detected No Violence with confidence 0.82 at [259, 298, 451, 480]
+2024-07-18T01:23:51.693452 - #939771 - detected gun with confidence 0.62 at [473, 131, 536, 208]
+2024-07-18T01:24:00.320670 - #748759 - detected gun with confidence 0.75 at [475, 119, 535, 199]
+2024-07-18T01:24:33.812208 - #944773 - detected gun with confidence 0.66 at [2, 248, 633, 480]
+2024-07-18T01:24:35.809168 - #542362 - detected gun with confidence 0.60 at [58, 255, 624, 478]
+2024-07-18T01:24:47.667862 - #371063 - detected gun with confidence 0.62 at [371, 240, 431, 314]
+2024-07-18T01:31:59.725889 - #730004 - detected gun with confidence 0.60 at [198, 305, 639, 480]
+2024-07-18T01:32:00.877028 - #899236 - detected smoke with confidence 0.51 at [309, 0, 526, 79]
+2024-07-18T01:32:01.484323 - #172931 - detected gun with confidence 0.71 at [195, 308, 637, 480]
+2024-07-18T01:32:16.610315 - #252193 - detected gun with confidence 0.74 at [451, 8, 515, 89]
+2024-07-18T01:32:18.135076 - #257356 - detected gun with confidence 0.69 at [451, 9, 515, 94]
+2024-07-18T01:32:42.180191 - #637231 - detected gun with confidence 0.77 at [474, 1, 541, 80]
+2024-07-18T01:32:43.808902 - #573958 - detected gun with confidence 0.67 at [475, 0, 544, 78]
+2024-07-18T01:32:54.068937 - #900761 - detected gun with confidence 0.75 at [476, 5, 541, 86]
+2024-07-18T01:32:57.274191 - #138959 - detected smoke with confidence 0.57 at [580, 69, 640, 446]
+2024-07-18T01:32:58.053438 - #521839 - detected No Violence with confidence 0.90 at [582, 70, 638, 445]
+2024-07-18T01:33:13.445608 - #185449 - detected gun with confidence 0.71 at [480, 0, 547, 69]
+2024-07-18T01:39:49.711805 - #932911 - detected gun with confidence 0.62 at [8, 4, 207, 380]
+2024-07-18T01:41:09.626719 - #625858 - Detected fire+smoke with confidence 0.63]
+2024-07-18T01:42:26.288566 - #872670 - detected smoke with confidence 0.83
+2024-07-18T01:42:27.625063 - #433607 - Detected No Violence with confidence 0.87
+2024-07-18T01:42:29.920690 - #895395 - Detected gun with confidence 0.67
+2024-07-18T01:42:53.564389 - #233169 - detected smoke with confidence 0.68
+2024-07-18T01:42:58.856035 - #604234 - Detected No Violence with confidence 0.91
+2024-07-18T01:42:59.406243 - #207937 - detected smoke with confidence 0.50
+2024-07-18T01:43:08.358826 - #732076 - detected smoke with confidence 0.79
+2024-07-18T01:43:14.186907 - #872152 - Detected No Violence with confidence 0.94
+2024-07-18T01:43:21.433600 - #583466 - detected smoke with confidence 0.65
+2024-07-18T01:43:28.091855 - #650370 - detected smoke with confidence 0.81
+2024-07-18T01:43:29.386919 - #108901 - Detected No Violence with confidence 0.97
+2024-07-18T01:44:02.940590 - #638919 - detected smoke with confidence 0.75
+2024-07-18T01:44:03.898773 - #778961 - Detected No Violence with confidence 0.91
+2024-07-18T01:44:06.692185 - #181796 - detected smoke with confidence 0.58
+2024-07-18T01:44:08.046869 - #552000 - Detected No Violence with confidence 0.89
+2024-07-18T01:44:08.724913 - #469948 - detected smoke with confidence 0.75
+2024-07-18T01:44:09.924714 - #977391 - Detected No Violence with confidence 0.94
+2024-07-18T01:44:36.108855 - #303571 - Detected gun with confidence 0.71
+2024-07-18T01:44:37.819331 - #760344 - Detected gun with confidence 0.75
+2024-07-18T01:44:39.689394 - #651972 - Detected gun with confidence 0.61
+2024-07-18T01:44:41.352115 - #637432 - Detected gun with confidence 0.70
+2024-07-18T01:44:43.147522 - #783934 - Detected gun with confidence 0.61
+2024-07-18T01:44:44.768539 - #510988 - Detected gun with confidence 0.72
+2024-07-18T01:44:55.364474 - #283301 - detected smoke with confidence 0.52
+2024-07-18T01:45:02.869176 - #386097 - Detected No Violence with confidence 0.94
+2024-07-18T01:45:03.571488 - #573270 - detected smoke with confidence 0.70
+2024-07-18T01:45:04.811377 - #967510 - Detected No Violence with confidence 0.89
+2024-07-18T01:45:11.905396 - #275876 - detected smoke with confidence 0.74
+2024-07-18T01:45:11.907503 - #398157 - detected smoke with confidence 0.69
+2024-07-18T01:45:13.398692 - #581760 - detected smoke with confidence 0.76
+2024-07-18T01:45:21.746403 - #221373 - Detected No Violence with confidence 0.90
+2024-07-18T01:45:29.337619 - #395204 - detected smoke with confidence 0.65
+2024-07-18T01:45:35.365886 - #681841 - Detected No Violence with confidence 0.93
+2024-07-18T01:45:36.038955 - #972908 - detected smoke with confidence 0.58
+2024-07-18T01:45:37.103844 - #584255 - Detected No Violence with confidence 0.96
+2024-07-18T01:45:57.466271 - #228123 - detected smoke with confidence 0.57
+2024-07-18T01:45:58.612672 - #240700 - Detected No Violence with confidence 0.88
+2024-07-18T01:46:15.028883 - #130425 - detected smoke with confidence 0.69
+2024-07-18T01:46:16.534132 - #618046 - Detected No Violence with confidence 0.95
+2024-07-18T01:46:39.676302 - #613599 - detected smoke with confidence 0.73
+2024-07-18T01:46:55.364547 - #284244 - detected smoke with confidence 0.54
+2024-07-18T01:46:56.197611 - #357092 - detected smoke with confidence 0.51
+2024-07-18T01:47:10.968007 - #583206 - detected smoke with confidence 0.63
+2024-07-18T01:47:12.031666 - #517841 - detected fire+smoke with confidence 0.54
+2024-07-18T01:47:25.903866 - #267655 - detected fire+smoke with confidence 0.78
+2024-07-18T01:47:26.735701 - #923239 - detected fire+smoke with confidence 0.60
+2024-07-18T01:47:41.235021 - #965660 - detected fire+smoke with confidence 0.59
+2024-07-18T01:47:42.224536 - #485053 - detected fire+smoke with confidence 0.53
+2024-07-18T01:47:43.195202 - #622649 - detected fire+smoke with confidence 0.56
+2024-07-18T01:47:46.287639 - #566603 - detected fire+smoke with confidence 0.59
+2024-07-18T01:47:48.321113 - #661279 - detected fire+smoke with confidence 0.61
+2024-07-18T01:47:51.617047 - #693736 - Detected Violence with confidence 0.82
+2024-07-18T01:47:52.067682 - #204538 - detected smoke with confidence 0.66
+2024-07-18T01:47:53.721514 - #164029 - detected smoke with confidence 0.52
+2024-07-18T01:47:55.711834 - #475504 - detected smoke with confidence 0.62
+2024-07-18T01:47:55.712852 - #644480 - detected smoke with confidence 0.54
+2024-07-18T01:48:02.958125 - #620565 - detected smoke with confidence 0.57
+2024-07-18T01:48:05.258715 - #941284 - Detected gun with confidence 0.71
+2024-07-18T01:48:06.302680 - #638912 - Detected gun with confidence 0.74
+2024-07-18T01:48:07.366235 - #787569 - Detected gun with confidence 0.66
+2024-07-18T01:48:08.483267 - #325352 - Detected gun with confidence 0.71
+2024-07-18T01:48:09.749104 - #985751 - Detected gun with confidence 0.71
+2024-07-18T01:48:14.866768 - #690997 - detected smoke with confidence 0.53
+2024-07-18T01:48:16.002470 - #955657 - detected smoke with confidence 0.52
+2024-07-18T01:48:17.124541 - #457540 - detected smoke with confidence 0.74
+2024-07-18T01:48:18.241212 - #407712 - Detected gun with confidence 0.60
+2024-07-18T01:48:20.054064 - #748345 - Detected gun with confidence 0.73
+2024-07-18T01:48:21.202534 - #211124 - Detected gun with confidence 0.72
+2024-07-18T01:48:29.502714 - #397226 - Detected gun with confidence 0.78
+2024-07-18T01:48:30.305727 - #152525 - Detected gun with confidence 0.72
+2024-07-18T01:48:38.823306 - #889200 - detected smoke with confidence 0.66
+2024-07-18T01:48:44.780617 - #961954 - detected fire+smoke with confidence 0.64
+2024-07-18T01:48:57.721034 - #666410 - detected smoke with confidence 0.51
+2024-07-18T01:49:02.950328 - #447215 - detected fire+smoke with confidence 0.67
+2024-07-18T01:49:11.094340 - #381115 - detected fire+smoke with confidence 0.51
+2024-07-18T01:49:22.872748 - #647500 - detected smoke with confidence 0.75
+2024-07-18T01:49:25.241019 - #816153 - detected smoke with confidence 0.64
+2024-07-18T01:49:26.885315 - #618248 - detected smoke with confidence 0.51
+2024-07-18T01:49:37.816315 - #483306 - detected smoke with confidence 0.58
+2024-07-18T01:54:04.243326 - #382850 - Detected gun with confidence 0.72
+2024-07-18T01:54:21.169935 - #850739 - Detected gun with confidence 0.80
+2024-07-18T01:54:25.881520 - #957851 - Detected gun with confidence 0.80
+2024-07-18T01:56:30.727651 - #311585 - Detected gun with confidence 0.75
+2024-07-18T01:56:34.646505 - #194949 - Detected gun with confidence 0.77
+2024-07-18T01:56:42.665278 - #131038 - Detected gun with confidence 0.77
+2024-07-18T01:57:31.903820 - #399355 - Detected gun with confidence 0.72
+2024-07-18T01:57:33.835636 - #777744 - Detected gun with confidence 0.72
+2024-07-18T01:57:59.342428 - #475194 - Detected smoke with confidence 0.54
+2024-07-18T01:58:00.030594 - #392250 - Detected gun with confidence 0.69
+2024-07-18T01:58:02.020016 - #576054 - Detected gun with confidence 0.71
+2024-07-18T01:58:17.205446 - #172939 - Detected Violence with confidence 0.85
+2024-07-18T01:58:11.085369 - #472589 - Detected smoke with confidence 0.58
+2024-07-18T02:02:05.038419 - #157107 - Detected smoke with confidence 0.82
+2024-07-18T02:02:07.691113 - #462698 - Detected gun with confidence 0.74
+2024-07-18T02:02:14.717678 - #216987 - Detected smoke with confidence 0.65
+2024-07-18T02:02:17.282431 - #490249 - Detected gun with confidence 0.74
+2024-07-18T02:02:18.620484 - #473222 - Detected gun with confidence 0.65
+2024-07-18T02:02:21.867727 - #746711 - Detected Violence with confidence 0.87
+2024-07-18T02:02:28.225895 - #514772 - Detected smoke with confidence 0.59
+2024-07-18T02:02:28.227557 - #776302 - Detected smoke with confidence 0.52
+2024-07-18T02:02:29.869430 - #177582 - Detected smoke with confidence 0.59
+2024-07-18T02:03:13.031251 - #596309 - Detected smoke with confidence 0.60
+2024-07-18T02:03:39.635501 - #500046 - Detected gun with confidence 0.71
+2024-07-18T02:04:27.849573 - #112713 - Detected gun with confidence 0.74
+2024-07-18T02:04:29.543947 - #428324 - Detected gun with confidence 0.70
+2024-07-18T02:04:31.596267 - #308974 - Detected gun with confidence 0.74
+2024-07-18T02:04:33.339504 - #799112 - Detected gun with confidence 0.80
+2024-07-18T02:04:35.506690 - #454069 - Detected gun with confidence 0.79
+2024-07-18T02:04:37.266690 - #869727 - Detected gun with confidence 0.79
+2024-07-18T02:04:39.173064 - #429429 - Detected gun with confidence 0.79
+2024-07-18T02:04:40.925358 - #727067 - Detected gun with confidence 0.71
+2024-07-18T02:04:57.279874 - #417707 - Detected fire+smoke with confidence 0.54
+2024-07-18T02:12:13.132337 - #375899 - Detected gun with confidence 0.76
+2024-07-18T02:12:36.708011 - #698695 - Detected gun with confidence 0.66
+2024-07-18T02:12:37.770690 - #220807 - Detected gun with confidence 0.69
+2024-07-18T02:12:38.728505 - #203238 - Detected gun with confidence 0.73
+2024-07-18T02:12:39.616066 - #303776 - Detected gun with confidence 0.80
+2024-07-18T02:12:40.717425 - #441633 - Detected gun with confidence 0.77
+2024-07-18T02:12:42.475668 - #638146 - Detected gun with confidence 0.61
+2024-07-18T02:12:43.495287 - #273897 - Detected gun with confidence 0.80
+2024-07-18T02:12:44.345449 - #637233 - Detected gun with confidence 0.73
+2024-07-18T02:12:45.233734 - #818473 - Detected gun with confidence 0.77
+2024-07-18T02:12:46.275892 - #235819 - Detected gun with confidence 0.72
+2024-07-18T02:12:47.051365 - #237299 - Detected gun with confidence 0.78
+2024-07-18T02:12:48.041019 - #358882 - Detected gun with confidence 0.73
+2024-07-18T02:12:48.900969 - #537129 - Detected gun with confidence 0.82
+2024-07-18T02:12:49.972276 - #400707 - Detected gun with confidence 0.83
+2024-07-18T02:12:52.113425 - #807612 - Detected gun with confidence 0.81
+2024-07-18T02:12:53.748836 - #269466 - Detected gun with confidence 0.81
+2024-07-18T02:12:55.703710 - #697705 - Detected gun with confidence 0.69
+2024-07-18T02:13:08.169150 - #737335 - Detected gun with confidence 0.70
+2024-07-18T02:13:49.878351 - #723629 - Detected smoke with confidence 0.58
+2024-07-23T10:30:10.245252 - #157141 - Detected knife with confidence 0.61
+2024-07-23T10:30:11.329009 - #647674 - Detected knife with confidence 0.61
+2024-07-23T10:30:30.522135 - #409636 - Detected knife with confidence 0.63
+2024-07-23T10:30:32.641708 - #312967 - Detected knife with confidence 0.64
+2024-07-23T10:30:40.783899 - #873015 - Detected knife with confidence 0.60
+2024-07-23T10:30:41.043205 - #967691 - Detected Violence with confidence 0.86
+2024-07-23T10:31:25.056203 - #458583 - Detected knife with confidence 0.64
+2024-07-23T10:31:41.802413 - #874283 - Detected Violence with confidence 0.91
+2024-07-23T10:31:44.284323 - #517425 - Detected fire+smoke with confidence 0.58
+2024-07-23T10:31:44.285321 - #224907 - Detected fire+smoke with confidence 0.55
+2024-07-23T10:31:59.001384 - #158343 - Detected gun with confidence 0.60
+2024-07-23T10:35:03.172655 - #106900 - Detected knife with confidence 0.75
+2024-07-23T10:35:57.333045 - #517340 - Detected gun with confidence 0.32
+2024-07-23T10:37:24.958280 - #175818 - Detected gun with confidence 0.41
+2024-07-23T10:37:25.973378 - #383272 - Detected knife with confidence 0.27
+2024-07-23T10:37:30.655052 - #462306 - Detected gun with confidence 0.35
+2024-07-23T10:37:34.753279 - #738320 - Detected gun with confidence 0.27
+2024-07-23T10:37:35.547265 - #481354 - Detected gun with confidence 0.26
+2024-07-23T10:37:40.226162 - #536699 - Detected gun with confidence 0.26
+2024-07-23T10:37:41.042605 - #389828 - Detected gun with confidence 0.27
+2024-07-23T10:37:41.868767 - #266538 - Detected gun with confidence 0.30
+2024-07-23T10:37:42.656017 - #748888 - Detected gun with confidence 0.37
+2024-07-23T10:37:45.998390 - #889046 - Detected gun with confidence 0.26
+2024-07-23T10:37:48.431323 - #230408 - Detected gun with confidence 0.27
+2024-07-23T10:37:51.771898 - #406940 - Detected gun with confidence 0.34
+2024-07-23T10:37:55.389094 - #590985 - Detected gun with confidence 0.38
+2024-07-23T10:37:56.533996 - #541277 - Detected gun with confidence 0.26
+2024-07-23T10:37:58.699279 - #107751 - Detected gun with confidence 0.29
+2024-07-23T10:37:59.568980 - #524401 - Detected gun with confidence 0.39
+2024-07-23T10:38:01.243163 - #725188 - Detected gun with confidence 0.26
+2024-07-23T10:38:03.760014 - #873464 - Detected gun with confidence 0.30
+2024-07-23T10:38:04.765317 - #451469 - Detected gun with confidence 0.35
+2024-07-23T10:38:06.845931 - #575440 - Detected gun with confidence 0.28
+2024-07-23T10:38:07.781583 - #191575 - Detected gun with confidence 0.32
+2024-07-23T10:38:08.629818 - #674617 - Detected gun with confidence 0.31
+2024-07-23T10:38:11.197234 - #569309 - Detected gun with confidence 0.26
+2024-07-23T10:38:12.101122 - #922668 - Detected gun with confidence 0.31
+2024-07-23T10:38:13.249838 - #622795 - Detected gun with confidence 0.35
+2024-07-23T10:38:16.638638 - #687002 - Detected gun with confidence 0.31
+2024-07-23T10:38:17.512850 - #400873 - Detected gun with confidence 0.28
+2024-07-23T10:38:18.440143 - #540403 - Detected gun with confidence 0.32
+2024-07-23T10:38:19.357758 - #655991 - Detected gun with confidence 0.29
+2024-07-23T10:38:20.187232 - #879381 - Detected gun with confidence 0.39
+2024-07-23T10:38:21.241264 - #732380 - Detected gun with confidence 0.30
+2024-07-23T10:38:22.114739 - #107728 - Detected gun with confidence 0.29
+2024-07-23T10:38:22.115783 - #406965 - Detected gun with confidence 0.25
+2024-07-23T10:38:22.928021 - #818393 - Detected gun with confidence 0.32
+2024-07-23T10:38:23.883241 - #185171 - Detected gun with confidence 0.36
+2024-07-23T10:38:24.755124 - #646246 - Detected gun with confidence 0.43
+2024-07-23T10:38:25.552047 - #540789 - Detected gun with confidence 0.40
+2024-07-23T10:38:26.415602 - #778251 - Detected gun with confidence 0.37
+2024-07-23T10:38:28.463333 - #340114 - Detected gun with confidence 0.37
+2024-07-23T10:38:29.434157 - #195434 - Detected gun with confidence 0.26
+2024-07-23T10:38:34.108199 - #516821 - Detected gun with confidence 0.37
+2024-07-23T10:38:35.730155 - #267892 - Detected gun with confidence 0.37
+2024-07-23T10:38:36.595400 - #301914 - Detected gun with confidence 0.26
+2024-07-23T10:38:38.228985 - #291229 - Detected gun with confidence 0.37
+2024-07-23T10:38:39.111221 - #128342 - Detected gun with confidence 0.28
+2024-07-23T10:38:39.970236 - #965145 - Detected gun with confidence 0.31
+2024-07-23T10:38:41.636502 - #798859 - Detected gun with confidence 0.32
+2024-07-23T10:38:42.478315 - #811245 - Detected gun with confidence 0.29
+2024-07-23T10:38:44.597194 - #906201 - Detected gun with confidence 0.36
+2024-07-23T10:38:47.311648 - #376163 - Detected gun with confidence 0.35
+2024-07-23T10:38:48.081566 - #970806 - Detected gun with confidence 0.35
+2024-07-23T10:38:48.945842 - #366343 - Detected gun with confidence 0.42
+2024-07-23T10:47:08.922518 - #900165 - Detected smoke with confidence 0.64
+2024-08-18T19:28:52.969543 - #516790 - Detected smallFire with confidence 0.52
+2024-08-18T19:31:25.686094 - #108540 - Detected smoke with confidence 0.58
+2024-08-18T19:35:19.640412 - #386669 - Detected smoke with confidence 0.68
+2024-08-18T19:35:28.858395 - #292362 - Detected smoke with confidence 0.55
+2024-08-18T19:35:34.661502 - #305293 - Detected smoke with confidence 0.53
+2024-08-18T19:35:38.147091 - #275200 - Detected smoke with confidence 0.64
+2024-08-18T19:37:07.367619 - #583439 - Detected smoke with confidence 0.50
+2024-08-18T19:37:43.140652 - #532658 - Detected knife with confidence 0.82
+2024-08-18T19:42:56.511630 - #128795 - Detected fire+smoke with confidence 0.71
+2024-08-18T19:43:00.643302 - #667060 - Detected fire+smoke with confidence 0.65
+2024-08-18T19:43:02.746469 - #712138 - Detected fire+smoke with confidence 0.66
+2024-08-18T19:43:04.278416 - #757353 - Detected fire+smoke with confidence 0.69
+2024-08-18T19:43:06.279716 - #721659 - Detected fire+smoke with confidence 0.78
+2024-08-18T19:43:07.594631 - #381250 - Detected fire+smoke with confidence 0.73
+2024-08-18T19:43:09.651682 - #682427 - Detected fire+smoke with confidence 0.72
+2024-08-18T19:43:19.070992 - #998024 - Detected fire+smoke with confidence 0.53
+2024-08-18T19:43:43.154194 - #637277 - Detected fire+smoke with confidence 0.51
+2024-08-18T19:44:42.913957 - #843259 - Detected fire+smoke with confidence 0.75
+2024-08-18T19:44:48.440106 - #172928 - Detected fire+smoke with confidence 0.68
+2024-08-18T19:45:07.795254 - #550236 - Detected fire+smoke with confidence 0.56
+2024-08-18T19:45:18.521087 - #804056 - Detected fire+smoke with confidence 0.62
+2024-08-18T19:46:04.199967 - #690751 - Detected fire+smoke with confidence 0.51
+2024-08-18T19:46:04.899101 - #661594 - Detected Violence with confidence 0.92
+2024-08-18T19:46:09.897852 - #478588 - Detected fire+smoke with confidence 0.72
+2024-08-18T19:46:10.694777 - #623234 - Detected Violence with confidence 0.81
+2024-08-18T19:46:11.680085 - #623087 - Detected Violence with confidence 0.89
+2024-08-18T19:46:12.483326 - #761721 - Detected Violence with confidence 0.88
+2024-08-18T19:46:12.795275 - #976004 - Detected fire+smoke with confidence 0.62
+2024-08-18T19:46:14.274231 - #398586 - Detected fire+smoke with confidence 0.58
+2024-08-18T19:46:15.587871 - #165066 - Detected fire+smoke with confidence 0.71
+2024-08-18T19:46:17.564920 - #407577 - Detected fire+smoke with confidence 0.77
+2024-08-18T19:46:19.563387 - #594332 - Detected fire+smoke with confidence 0.66
+2024-08-18T19:46:53.162794 - #741227 - Detected Violence with confidence 0.83
+2024-08-18T19:47:28.634794 - #752622 - Detected Violence with confidence 0.81
+2024-08-18T19:47:39.996806 - #543549 - Detected Violence with confidence 0.88
+2024-08-18T19:47:49.605526 - #145010 - Detected Violence with confidence 0.88

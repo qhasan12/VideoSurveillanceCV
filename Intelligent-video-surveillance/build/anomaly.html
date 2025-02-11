@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anomalies Detected</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .anomaly {
+            border: 2px solid blue;
+            border-radius: 20px;
+            margin-top: 16px;
+            margin-bottom: 16px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+        .anomaly-title {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 12px;
+            padding-left: 12px;
+            padding-right: 12px;
+        }
+        .anomaly-title svg {
+            width: 24px;
+            height: 24px;
+        }
+        .anomaly-detail {
+            padding-top: 8px;
+            padding-left: 12px;
+            padding-right: 12px;
+        }
+        .d-flex {
+            display: flex;
+            gap: 16px;
+        }
+        .date, .time {
+            margin: 0;
+        }
+        .date p, .time p {
+            margin: 0;
+        }
+    </style>
+    <script>
+        function fetchAnomalies() {
+            fetch('anomalies.txt')
+                .then(response => response.text())
+                .then(data => {
+                    const anomaliesDiv = document.getElementById('anomalies');
+                    const lines = data.split('\n').filter(line => line.trim() !== '');
+                    anomaliesDiv.innerHTML = lines.map(line => {
+                        const parts = line.split(' - ');
+                        if (parts.length === 3) {
+                            const datetime = new Date(parts[0]);
+                            const anomaly_id = parts[1];
+                            const anomalyDetails = parts[2];
+                            return `
+                                <div class="anomaly border-2 border-blue border-rounded-20x my-4 py-3">
+                                    <div class="anomaly-title d-flex gap-2 align-items-center border-bottom pb-3 px-3">
+                                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="user" class="svg-inline--fa fa-user " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg> ${anomaly_id}
+                                    </div>
+                                    <div class="anomaly-detail pt-2 px-3">
+                                        <div class="d-flex gap-4">
+                                            <div class="date">
+                                                <p class="m-0">Date:</p>
+                                                <b>${datetime.toLocaleDateString()}</b>
+                                            </div>
+                                            <div class="time">
+                                                <p class="m-0">Time:</p>
+                                                <b>${datetime.toLocaleTimeString()}</b>
+                                            </div>
+                                        </div>
+                                        <p class="m-0">${anomalyDetails}</p>
+                                    </div>
+                                </div>`;
+                        } else {
+                            return `<div class="anomaly">Invalid data format</div>`;
+                        }
+                    }).join('');
+                });
+        }
+
+        setInterval(fetchAnomalies, 1000); // Fetch every second
+    </script>
+</head>
+<body>
+    <h1>Anomalies Detected</h1>
+    <div id="anomalies"></div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.becad4a0.css",
+    "main.js": "/static/js/main.94564de7.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/anomaly-graph.png": "/static/media/anomaly-graph.45282cdfe102a3e4f54c.png",
+    "index.html": "/index.html",
+    "main.becad4a0.css.map": "/static/css/main.becad4a0.css.map",
+    "main.94564de7.js.map": "/static/js/main.94564de7.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.becad4a0.css",
+    "static/js/main.94564de7.js"
+  ]
+}

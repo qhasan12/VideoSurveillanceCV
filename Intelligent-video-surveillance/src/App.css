@@ -1,0 +1,79 @@
+body {
+  overflow-x:hidden;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.bg-blue {
+  background-color: #2D9BEF  !important;
+}
+
+.border-blue {
+  border: solid #0883c9  !important;
+}
+
+.border-rounded-20x{
+  border-radius: 20px !important;
+}
+
+.border-rounded-35x{
+  border-radius: 35px !important;
+}
+
+.text-right {
+  text-align: right;
+}
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+@media(min-width:1600px) {
+  .fs-1\.25x {
+    font-size:1.25rem !important;
+  }
+  
+}
+
+.login-modal-header {
+  border-top-left-radius: 20px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.sideBar {
+  min-height: 90vh;
+} 
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.dashboard-logo img {
+  width: 170px;
+  margin: auto;
+  display: block;
+}
+
